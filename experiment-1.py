@@ -11,6 +11,8 @@ from pyspark.sql import SparkSession
 
 
 spark = SparkSession.builder.appName("Experiment 1").getOrCreate()
+# There's also a log4j.properties file that controls the logging output of spark globally: https://stackoverflow.com/questions/28189408/how-to-reduce-the-verbosity-of-sparks-runtime-output
+spark.sparkContext.setLogLevel("ERROR")
 
 # Turn on spark-rapids
 spark.conf.set('spark.rapids.sql.enabled', 'true')
