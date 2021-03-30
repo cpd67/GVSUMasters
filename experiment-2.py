@@ -17,7 +17,16 @@ spark.conf.set('spark.rapids.sql.enabled', 'true')
 
 # Get list of words to use
 stop = list(set(stopwords.words('english')))
-text_files = ['./PrideAndPrejudice.txt', './ATaleOfTwoCities.txt', './AdventuresInWonderland.txt', './MobyDick.txt', './SherlockHolmes.txt', './Illiad.txt', './WarAndPeace.txt', './SleepyHollow.txt']
+text_files = ['./textFiles/PrideAndPrejudice.txt', 
+              './textFiles/ATaleOfTwoCities.txt', 
+              './textFiles/AdventuresInWonderland.txt', 
+              './textFiles/MobyDick.txt', 
+              './textFiles/SherlockHolmes.txt', 
+              './textFiles/Illiad.txt', 
+              './textFiles/WarAndPeace.txt', 
+              './textFiles/SleepyHollow.txt'
+              ]
+              
 with open('./words.txt', 'w') as f2:
     for file in text_files:
         with open(file, 'r') as f:
