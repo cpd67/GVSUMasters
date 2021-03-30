@@ -45,17 +45,15 @@ df = spark.read.text("./words.txt")
 
 # Character analysis - Experiment 2
 # Words that do not start with 'a'
-df.select('value').filter(~df.value.like('a%')).collect()
+df.select('value').filter(~df.value.like('a%')).show()
 
 # Words that contain 'ab'
-df.select('value').filter(df.value.like('%ab%')).collect()
+df.select('value').filter(df.value.like('%ab%')).show()
 
 # Words that contain 'c'
-df.select('value').filter(df.value.like('%c%')).collect()
+df.select('value').filter(df.value.like('%c%')).show()
 
-# Words that have 1 or more 'a's
-df.select('value').filter(df.value.rlike('*[a]+*$')).collect()
-
+# TODO: More character analysis
 
 end = time.time() - start
 
