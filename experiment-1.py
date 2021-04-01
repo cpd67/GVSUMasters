@@ -19,15 +19,17 @@ spark.sparkContext.setLogLevel("ERROR")
 # Turn on spark-rapids
 spark.conf.set('spark.rapids.sql.enabled', 'true')
 
+start = time.time()
+
 # Get list of words to use
 stop = list(set(stopwords.words('english')))
 generate_word_file()
 
-start = time.time()
-
 df = spark.read.text("./words.txt")
 not_stop_words = df.select('value').filter(~df.value.isin(stop)).groupBy('value').count()
 are_stop_words = df.select('value').filter(df.value.isin(stop)).groupBy('value').count()
+
+# TODO: get times for individual queries
 
 # Get the 3 words that appear most frequently
 not_stop_words.orderBy('count', ascending=False).show(3)

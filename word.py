@@ -1,5 +1,5 @@
 def generate_word_file():
-    """" Generate a large file containing words across 10 books. """"
+    """ Generate a large file containing words across 10 books. """
     text_files = [
                 './textFiles/PrideAndPrejudice.txt', 
                 './textFiles/ATaleOfTwoCities.txt', 
@@ -8,7 +8,7 @@ def generate_word_file():
                 './textFiles/SherlockHolmes.txt', 
                 './textFiles/Illiad.txt', 
                 './textFiles/WarAndPeace.txt', 
-                './textFiles/SleepyHollow.txt,
+                './textFiles/SleepyHollow.txt',
                 ]
 
     with open('./words.txt', 'w') as f2:

@@ -19,11 +19,11 @@ spark.sparkContext.setLogLevel("ERROR")
 # Turn on spark-rapids
 spark.conf.set('spark.rapids.sql.enabled', 'true')
 
+start = time.time()
+
 # Get list of words to use
 stop = list(set(stopwords.words('english')))
 generate_word_file()
-
-start = time.time()
 
 df = spark.read.text("./words.txt")
 
