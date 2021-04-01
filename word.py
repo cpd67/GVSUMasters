@@ -7,8 +7,15 @@ def generate_word_file():
                 './textFiles/MobyDick.txt', 
                 './textFiles/SherlockHolmes.txt', 
                 './textFiles/Illiad.txt', 
-                './textFiles/WarAndPeace.txt', 
-                './textFiles/SleepyHollow.txt',
+                './textFiles/WarAndPeace.txt',
+                './textFiles/DonQuixote.txt',
+                './textFiles/BleakHouse.txt',
+                './textFiles/Hunchback.txt',
+                './textFiles/Brothers.txt',
+                './textFiles/LesMis.txt',
+                './textFiles/Middlemarch.txt',
+                './textFiles/Dracula.txt',
+                './textFiles/Ulysses.txt',                
                 ]
 
     with open('./words.txt', 'w') as f2:
