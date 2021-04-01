@@ -9,6 +9,8 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 from pyspark.sql import SparkSession
 
+from word import generate_word_file
+
 
 spark = SparkSession.builder.appName("Experiment 1").getOrCreate()
 # There's also a log4j.properties file that controls the logging output of spark globally: https://stackoverflow.com/questions/28189408/how-to-reduce-the-verbosity-of-sparks-runtime-output
@@ -19,27 +21,7 @@ spark.conf.set('spark.rapids.sql.enabled', 'true')
 
 # Get list of words to use
 stop = list(set(stopwords.words('english')))
-text_files = ['./textFiles/PrideAndPrejudice.txt', 
-              './textFiles/ATaleOfTwoCities.txt', 
-              './textFiles/AdventuresInWonderland.txt', 
-              './textFiles/MobyDick.txt', 
-              './textFiles/SherlockHolmes.txt', 
-              './textFiles/Illiad.txt', 
-              './textFiles/WarAndPeace.txt', 
-              './textFiles/SleepyHollow.txt'
-              ]
-              
-with open('./words.txt', 'w') as f2:
-    for file in text_files:
-        with open(file, 'r') as f:
-            line = f.readline()
-            while line != '':
-                words = line.replace("\n", '').split(' ')
-                for word in words:
-                    if len(word) > 0:
-                        word = word.strip('-\'\";\.,()”“?!_:_—\.’‘').lower()
-                        f2.write(f'{word}\n')              
-                line = f.readline()
+generate_word_file()
 
 start = time.time()
 
