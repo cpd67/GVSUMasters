@@ -1,58 +1,4 @@
 
-The Project Gutenberg EBook of Notre-Dame de Paris, by Victor Hugo
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Notre-Dame de Paris
-       The Hunchback of Notre Dame
-
-Author: Victor Hugo
-
-Translator: Isabel F. Hapgood
-
-Release Date: November 13, 2009 [EBook #2610]
-Last Updated: June 19, 2019
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK NOTRE-DAME DE PARIS ***
-
-
-
-
-Produced by Peter Snow Cao, and David Widger
-
-
-
-
-
-
-
-
-
-cover 
-
-
-      NOTRE-DAME DE PARIS
-
-      Also known as:
-
-      _THE HUNCHBACK OF NOTRE DAME_
-
-      By Victor Hugo
-
-      Translated by Isabel F. Hapgood
-
-
-
-      PREFACE.
-
       A few years ago, while visiting or, rather, rummaging about
       Notre-Dame, the author of this book found, in an obscure nook of
       one of the towers, the following word, engraved by hand upon the
@@ -94,209 +40,6 @@ cover
       It is upon this word that this book is founded.
 
       March, 1831.
-
-
-
-
-        CONTENTS
-
-
-
-         PREFACE.
-
-
-
-         VOLUME I.
-
-         BOOK FIRST.
-
-         CHAPTER I. THE GRAND HALL.
-
-         CHAPTER II. PIERRE GRINGOIRE.
-
-         CHAPTER III. MONSIEUR THE CARDINAL.
-
-         CHAPTER IV. MASTER JACQUES COPPENOLE.
-
-         CHAPTER V. QUASIMODO.
-
-         CHAPTER VI. ESMERALDA.
-
-
-
-         BOOK SECOND.
-
-         CHAPTER I. FROM CHARYBDIS TO SCYLLA.
-
-         CHAPTER II. THE PLACE DE GRÈVE.
-
-         CHAPTER III. KISSES FOR BLOWS.
-
-         CHAPTER IV. THE INCONVENIENCES OF FOLLOWING A PRETTY WOMAN
-         THROUGH THE STREETS IN THE EVENING.
-
-         CHAPTER V. RESULT OF THE DANGERS.
-
-         CHAPTER VI. THE BROKEN JUG.
-
-         CHAPTER VII. A BRIDAL NIGHT.
-
-
-
-         BOOK THIRD.
-
-         CHAPTER I. NOTRE-DAME.
-
-         CHAPTER II. A BIRD’S-EYE VIEW OF PARIS.
-
-
-
-         BOOK FOURTH.
-
-         CHAPTER I. GOOD SOULS.
-
-         CHAPTER II. CLAUDE FROLLO.
-
-         CHAPTER III. _IMMANIS PECORIS CUSTOS, IMMANIOR IPSE_.
-
-         CHAPTER IV. THE DOG AND HIS MASTER.
-
-         CHAPTER V. MORE ABOUT CLAUDE FROLLO.
-
-         CHAPTER VI. UNPOPULARITY.
-
-
-
-         BOOK FIFTH.
-
-         CHAPTER I. _ABBAS BEATI MARTINI_.
-
-         CHAPTER II. THIS WILL KILL THAT.
-
-
-
-         BOOK SIXTH.
-
-         CHAPTER I. AN IMPARTIAL GLANCE AT THE ANCIENT MAGISTRACY.
-
-         CHAPTER II. THE RAT-HOLE.
-
-         CHAPTER III. HISTORY OF A LEAVENED CAKE OF MAIZE.
-
-         CHAPTER IV. A TEAR FOR A DROP OF WATER.
-
-         CHAPTER V. END OF THE STORY OF THE CAKE.
-
-
-
-         VOLUME II.
-
-         BOOK SEVENTH.
-
-         CHAPTER I. THE DANGER OF CONFIDING ONE’S SECRET TO A GOAT.
-
-         CHAPTER II. A PRIEST AND A PHILOSOPHER ARE TWO DIFFERENT
-         THINGS.
-
-         CHAPTER III. THE BELLS.
-
-         CHAPTER IV. ἈΝÁΓΚΗ.
-
-         CHAPTER V. THE TWO MEN CLOTHED IN BLACK.
-
-         CHAPTER VI. THE EFFECT WHICH SEVEN OATHS IN THE OPEN AIR CAN
-         PRODUCE.
-
-         CHAPTER VII. THE MYSTERIOUS MONK.
-
-         CHAPTER VIII. THE UTILITY OF WINDOWS WHICH OPEN ON THE RIVER.
-
-
-
-         BOOK EIGHTH.
-
-         CHAPTER I. THE CROWN CHANGED INTO A DRY LEAF.
-
-         CHAPTER II. CONTINUATION OF THE CROWN WHICH WAS CHANGED INTO A
-         DRY LEAF.
-
-         CHAPTER III. END OF THE CROWN WHICH WAS TURNED INTO A DRY
-         LEAF.
-
-         CHAPTER IV. _LASCIATE OGNI SPERANZA_—LEAVE ALL HOPE BEHIND, YE
-         WHO ENTER HERE.
-
-         CHAPTER V. THE MOTHER.
-
-         CHAPTER VI. THREE HUMAN HEARTS DIFFERENTLY CONSTRUCTED.
-
-
-
-         BOOK NINTH.
-
-         CHAPTER I. DELIRIUM.
-
-         CHAPTER II. HUNCHBACKED, ONE EYED, LAME.
-
-         CHAPTER III. DEAF.
-
-         CHAPTER IV. EARTHENWARE AND CRYSTAL.
-
-         CHAPTER V. THE KEY TO THE RED DOOR.
-
-         CHAPTER VI. CONTINUATION OF THE KEY TO THE RED DOOR.
-
-
-
-         BOOK TENTH.
-
-         CHAPTER I. GRINGOIRE HAS MANY GOOD IDEAS IN SUCCESSION.—RUE
-         DES BERNARDINS.
-
-         CHAPTER II. TURN VAGABOND.
-
-         CHAPTER III. LONG LIVE MIRTH.
-
-         CHAPTER IV. AN AWKWARD FRIEND.
-
-         CHAPTER V. THE RETREAT IN WHICH MONSIEUR LOUIS OF FRANCE SAYS
-         HIS PRAYERS.
-
-         CHAPTER VI. LITTLE SWORD IN POCKET.
-
-         CHAPTER VII. CHATEAUPERS TO THE RESCUE.
-
-
-
-         BOOK ELEVENTH.
-
-         CHAPTER I. THE LITTLE SHOE.
-
-         CHAPTER II. THE BEAUTIFUL CREATURE CLAD IN WHITE. (Dante.)
-
-         CHAPTER III. THE MARRIAGE OF PHOEBUS.
-
-         CHAPTER IV. THE MARRIAGE OF QUASIMODO.
-
-
-
-         NOTE.
-
-         FOOTNOTES.
-
-
-
-
-
-      VOLUME I.
-
-
-
-      BOOK FIRST.
-
-
-
-      CHAPTER I. THE GRAND HALL.
 
       Three hundred and forty-eight years, six months, and nineteen
       days ago to-day, the Parisians awoke to the sound of all the
@@ -974,10 +717,6 @@ cover
       concerned, with a Breton archer from the guard of Monsieur de
       Berry.
 
-
-
-      CHAPTER II. PIERRE GRINGOIRE.
-
       Nevertheless, as be harangued them, the satisfaction and
       admiration unanimously excited by his costume were dissipated by
       his words; and when he reached that untoward conclusion: “As soon
@@ -1430,10 +1169,6 @@ cover
       ringing voice of the usher announced abruptly, “His eminence,
       Monseigneur the Cardinal de Bourbon.”
 
-
-
-      CHAPTER III. MONSIEUR THE CARDINAL.
-
       Poor Gringoire! the din of all the great double petards of the
       Saint-Jean, the discharge of twenty arquebuses on supports, the
       detonation of that famous serpentine of the Tower of Billy,
@@ -1686,10 +1421,6 @@ cover
       All which things were quite unknown to that throng, who were
       amazed at the cardinal’s politeness to that frail figure of a
       Flemish bailiff.
-
-
-
-      CHAPTER IV. MASTER JACQUES COPPENOLE.
 
       While the pensioner of Ghent and his eminence were exchanging
       very low bows and a few words in voices still lower, a man of
@@ -2091,10 +1822,6 @@ cover
       face between his two hands, not being so fortunate as to have a
       mantle with which to veil his head, like Agamemnon of Timantis.
 
-
-
-      CHAPTER V. QUASIMODO.
-
       In the twinkling of an eye, all was ready to execute Coppenole’s
       idea. _Bourgeois_, scholars and law clerks all set to work. The
       little chapel situated opposite the marble table was selected for
@@ -2417,10 +2144,6 @@ cover
       its march, according to custom, around the inner galleries of the
       Courts, before making the circuit of the streets and squares.
 
-
-
-      CHAPTER VI. ESMERALDA.
-
       We are delighted to be able to inform the reader, that during the
       whole of this scene, Gringoire and his piece had stood firm. His
       actors, spurred on by him, had not ceased to spout his comedy,
@@ -2519,14 +2242,6 @@ cover
       towns, and that Naso died in exile among the Muscovites. But may
       the devil flay me if I understand what they mean with their
       Esmeralda! What is that word, in the first place?—’tis Egyptian!”
-
-
-
-      BOOK SECOND.
-
-
-
-      CHAPTER I. FROM CHARYBDIS TO SCYLLA.
 
       Night comes on early in January. The streets were already dark
       when Gringoire issued forth from the Courts. This gloom pleased
@@ -2634,10 +2349,6 @@ cover
       the three great armorial bearings of royal sugar which have been
       erected on the public refreshment-stall of the city.”
 
-
-
-      CHAPTER II. THE PLACE DE GRÈVE.
-
       There remains to-day but a very imperceptible vestige of the
       Place de Grève, such as it existed then; it consists in the
       charming little turret, which occupies the angle north of the
@@ -2722,10 +2433,6 @@ cover
       guillotine, furtive, uneasy, shameful, which seems always afraid
       of being caught in the act, so quickly does it disappear after
       having dealt its blow.
-
-
-
-      CHAPTER III. KISSES FOR BLOWS.
 
       When Pierre Gringoire arrived on the Place de Grève, he was
       paralyzed. He had directed his course across the Pont aux
@@ -3166,11 +2873,6 @@ cover
       “Here’s a marvellous thing,” said Gringoire; “but where the deuce
       shall I find some supper?”
 
-
-
-      CHAPTER IV. THE INCONVENIENCES OF FOLLOWING A PRETTY WOMAN
-      THROUGH THE STREETS IN THE EVENING.
-
       Gringoire set out to follow the gypsy at all hazards. He had seen
       her, accompanied by her goat, take to the Rue de la Coutellerie;
       he took the Rue de la Coutellerie.
@@ -3377,10 +3079,6 @@ cover
       “What would you have, captain?” said one gendarme. “The warbler
       has fled, and the bat remains.”
 
-
-
-      CHAPTER V. RESULT OF THE DANGERS.
-
       Gringoire, thoroughly stunned by his fall, remained on the
       pavement in front of the Holy Virgin at the street corner. Little
       by little, he regained his senses; at first, for several minutes,
@@ -3470,10 +3168,6 @@ cover
       January, 1482, exorcised the defunct Eustache Moubon, who, in
       order to play a trick on the devil, had at his death maliciously
       concealed his soul in his straw pallet.
-
-
-
-      CHAPTER VI. THE BROKEN JUG.
 
       After having run for some time at the top of his speed, without
       knowing whither, knocking his head against many a street corner,
@@ -4325,10 +4019,6 @@ cover
       their foreheads, “she is your wife; sister, he is your husband
       for four years. Go.”
 
-
-
-      CHAPTER VII. A BRIDAL NIGHT.
-
       A few moments later our poet found himself in a tiny arched
       chamber, very cosy, very warm, seated at a table which appeared
       to ask nothing better than to make some loans from a larder
@@ -4803,14 +4493,6 @@ cover
       There was something innocent and antediluvian about that broken
       crock, which quite pleased me.”
 
-
-
-      BOOK THIRD.
-
-
-
-      CHAPTER I. NOTRE-DAME.
-
       The church of Notre-Dame de Paris is still no doubt, a majestic
       and sublime edifice. But, beautiful as it has been preserved in
       growing old, it is difficult not to sigh, not to wax indignant,
@@ -5138,10 +4820,6 @@ cover
       suits her. Hence, the prodigious exterior variety of these
       edifices, at whose foundation dwells so much order and unity. The
       trunk of a tree is immovable; the foliage is capricious.
-
-
-
-      CHAPTER II. A BIRD’S-EYE VIEW OF PARIS.
 
       We have just attempted to restore, for the reader’s benefit, that
       admirable church of Notre-Dame de Paris. We have briefly pointed
@@ -6114,14 +5792,6 @@ cover
       anything but an orchestra,—than this symphony which produces the
       noise of a tempest.
 
-
-
-      BOOK FOURTH.
-
-
-
-      CHAPTER I. GOOD SOULS.
-
       Sixteen years previous to the epoch when this story takes place,
       one fine morning, on Quasimodo Sunday, a living creature had been
       deposited, after mass, in the church of Notre-Dame, on the wooden
@@ -6294,10 +5964,6 @@ cover
 
       “I told you so, sister,—that young clerk, Monsieur Claude Frollo,
       is a sorcerer.”
-
-
-
-      CHAPTER II. CLAUDE FROLLO.
 
       In fact, Claude Frollo was no common person.
 
@@ -6501,10 +6167,6 @@ cover
       name to what a degree the poor little creature was incomplete,
       and hardly sketched out. In fact, Quasimodo, blind, hunchbacked,
       knock-kneed, was only an “almost.”
-
-
-
-      CHAPTER III. _IMMANIS PECORIS CUSTOS, IMMANIOR IPSE_.
 
       Now, in 1482, Quasimodo had grown up. He had become a few years
       previously the bellringer of Notre-Dame, thanks to his father by
@@ -6799,10 +6461,6 @@ cover
       it, one sees its place and that is all. It is like a skull which
       still has holes for the eyes, but no longer sight.
 
-
-
-      CHAPTER IV. THE DOG AND HIS MASTER.
-
       Nevertheless, there was one human creature whom Quasimodo
       excepted from his malice and from his hatred for others, and whom
       he loved even more, perhaps, than his cathedral: this was Claude
@@ -6847,10 +6505,6 @@ cover
       the finest examples are to be met with among men. We will say
       then, that Quasimodo loved the archdeacon as never a dog, never a
       horse, never an elephant loved his master.
-
-
-
-      CHAPTER V. MORE ABOUT CLAUDE FROLLO.
 
       In 1482, Quasimodo was about twenty years of age; Claude Frollo,
       about thirty-six. One had grown up, the other had grown old.
@@ -7103,10 +6757,6 @@ cover
       fire or the rope, for complicity in crimes with rams, sows, or
       goats.
 
-
-
-      CHAPTER VI. UNPOPULARITY.
-
       The archdeacon and the bellringer, as we have already said, were
       but little loved by the populace great and small, in the vicinity
       of the cathedral. When Claude and Quasimodo went out together,
@@ -7140,14 +6790,6 @@ cover
       But the insult generally passed unnoticed both by the priest and
       the bellringer. Quasimodo was too deaf to hear all these gracious
       things, and Claude was too dreamy.
-
-
-
-      BOOK FIFTH.
-
-
-
-      CHAPTER I. _ABBAS BEATI MARTINI_.
 
       Dom Claude’s fame had spread far and wide. It procured for him,
       at about the epoch when he refused to see Madame de Beaujeu, a
@@ -7616,10 +7258,6 @@ cover
       that Dom Claude’s influence quite overshadowed that of Olivier le
       Daim and Jacques Coictier, who, as was his habit, rudely took the
       king to task on that account.
-
-
-
-      CHAPTER II. THIS WILL KILL THAT.
 
       Our lady readers will pardon us if we pause for a moment to seek
       what could have been the thought concealed beneath those
@@ -8217,14 +7855,6 @@ cover
       promised to intelligence, a new Flood against an overflow of
       barbarians. It is the second tower of Babel of the human race.
 
-
-
-      BOOK SIXTH.
-
-
-
-      CHAPTER I. AN IMPARTIAL GLANCE AT THE ANCIENT MAGISTRACY.
-
       A very happy personage in the year of grace 1482, was the noble
       gentleman Robert d’Estouteville, chevalier, Sieur de Beyne, Baron
       d’Ivry and Saint Andry en la Marche, counsellor and chamberlain
@@ -8663,10 +8293,6 @@ cover
       against Quasimodo. “That will teach him to handle people
       roughly.”
 
-
-
-      CHAPTER II. THE RAT-HOLE.
-
       The reader must permit us to take him back to the Place de Grève,
       which we quitted yesterday with Gringoire, in order to follow la
       Esmeralda.
@@ -8829,10 +8455,6 @@ cover
       cavity, the name of “The Rat-Hole.” An explanation less sublime,
       perhaps, than the other; but, on the other hand, more
       picturesque.
-
-
-
-      CHAPTER III. HISTORY OF A LEAVENED CAKE OF MAIZE.
 
       At the epoch of this history, the cell in the Tour-Roland was
       occupied. If the reader desires to know by whom, he has only to
@@ -9752,10 +9374,6 @@ cover
       Egypt! ’Tis thou who callest me, stealer of children! Well! Be
       thou accursed! accursed! accursed! accursed!”
 
-
-
-      CHAPTER IV. A TEAR FOR A DROP OF WATER.
-
       These words were, so to speak, the point of union of two scenes,
       which had, up to that time, been developed in parallel lines at
       the same moment, each on its particular theatre; one, that which
@@ -10179,10 +9797,6 @@ cover
 
       “Accursed be thou, daughter of Egypt! Accursed! accursed!”
 
-
-
-      CHAPTER V. END OF THE STORY OF THE CAKE.
-
       La Esmeralda turned pale and descended from the pillory,
       staggering as she went. The voice of the recluse still pursued
       her,—
@@ -10217,18 +9831,6 @@ cover
       the fruit from the cherry-tree in our orchard of Charlerange. So
       his grandfather says that he will be a captain. Just let me catch
       you at it again, Master Eustache. Come along, you greedy fellow!”
-
-
-
-      VOLUME II.
-
-
-
-      BOOK SEVENTH.
-
-
-
-      CHAPTER I. THE DANGER OF CONFIDING ONE’S SECRET TO A GOAT.
 
       Many weeks had elapsed.
 
@@ -10930,10 +10532,6 @@ cover
       Captain Phœbus, on being left alone, hesitated for a moment
       between the two doors, then he followed the gypsy.
 
-
-
-      CHAPTER II. A PRIEST AND A PHILOSOPHER ARE TWO DIFFERENT THINGS.
-
       The priest whom the young girls had observed at the top of the
       North tower, leaning over the Place and so attentive to the dance
       of the gypsy, was, in fact, Archdeacon Claude Frollo.
@@ -11331,10 +10929,6 @@ cover
       giving the amazed Gringoire a push on the shoulders, he plunged,
       with long strides, under the gloomiest arcades of the cathedral.
 
-
-
-      CHAPTER III. THE BELLS.
-
       After the morning in the pillory, the neighbors of Notre-Dame
       thought they noticed that Quasimodo’s ardor for ringing had grown
       cool. Formerly, there had been peals for every occasion, long
@@ -11424,10 +11018,6 @@ cover
       in good faith to the peal from above the Pont du Change, and who
       went away dumbfounded, like a dog who has been offered a bone and
       given a stone.
-
-
-
-      CHAPTER IV. ἈΝÁΓΚΗ.
 
       It chanced that upon a fine morning in this same month of March,
       I think it was on Saturday the 29th, Saint Eustache’s day, our
@@ -12070,10 +11660,6 @@ cover
 
       Jehan darted under the furnace again, and the door opened.
 
-
-
-      CHAPTER V. THE TWO MEN CLOTHED IN BLACK.
-
       The personage who entered wore a black gown and a gloomy mien.
       The first point which struck the eye of our Jehan (who, as the
       reader will readily surmise, had ensconced himself in his nook in
@@ -12330,11 +11916,6 @@ cover
       to seriously fear that his knee would acquire the imprint of his
       chin.
 
-
-
-      CHAPTER VI. THE EFFECT WHICH SEVEN OATHS IN THE OPEN AIR CAN
-      PRODUCE.
-
       “_Te Deum laudamus_!” exclaimed Master Jehan, creeping out from
       his hole, “the screech-owls have departed. Och! och! Hax! pax!
       max! fleas! mad dogs! the devil! I have had enough of their
@@ -12550,11 +12131,6 @@ cover
 
          Les enfants des Petits-Carreaux
          Se font pendre comme des veaux[42].
-
-
-
-
-      CHAPTER VII. THE MYSTERIOUS MONK.
 
       The illustrious wine shop of “Eve’s Apple” was situated in the
       University, at the corner of the Rue de la Rondelle and the Rue
@@ -12917,10 +12493,6 @@ cover
       word in reply, the door closed upon him; he heard Phœbus bolt it,
       and a moment later descend the stairs again with the aged hag.
       The light had disappeared.
-
-
-
-      CHAPTER VIII. THE UTILITY OF WINDOWS WHICH OPEN ON THE RIVER.
 
       Claude Frollo (for we presume that the reader, more intelligent
       than Phœbus, has seen in this whole adventure no other surly monk
@@ -13291,14 +12863,6 @@ cover
       them saying around her,
 
       “’Tis a sorceress who has stabbed a captain.”
-
-
-
-      BOOK EIGHTH.
-
-
-
-      CHAPTER I. THE CROWN CHANGED INTO A DRY LEAF.
 
       Gringoire and the entire Court of Miracles were suffering mortal
       anxiety. For a whole month they had not known what had become of
@@ -13741,11 +13305,6 @@ cover
       “What an annoying and vexatious hussy,” said an aged judge, “to
       get herself put to the question when one has not supped!”
 
-
-
-      CHAPTER II. CONTINUATION OF THE CROWN WHICH WAS CHANGED INTO A
-      DRY LEAF.
-
       After ascending and descending several steps in the corridors,
       which were so dark that they were lighted by lamps at midday, La
       Esmeralda, still surrounded by her lugubrious escort, was thrust
@@ -13984,10 +13543,6 @@ cover
       Madamoiselle will bear us witness that we have acted with all
       possible gentleness.”
 
-
-
-      CHAPTER III. END OF THE CROWN WHICH WAS TURNED INTO A DRY LEAF.
-
       When she re-entered the audience hall, pale and limping, she was
       received with a general murmur of pleasure. On the part of the
       audience there was the feeling of impatience gratified which one
@@ -14124,11 +13679,6 @@ cover
 
       “Oh! ’tis a dream!” she murmured; and she felt rough hands
       bearing her away.
-
-
-
-      CHAPTER IV. _LASCIATE OGNI SPERANZA_—LEAVE ALL HOPE BEHIND, YE
-      WHO ENTER HERE.
 
       In the Middle Ages, when an edifice was complete, there was
       almost as much of it in the earth as above it. Unless built upon
@@ -14757,10 +14307,6 @@ cover
       any sound audible in the cell than the sob of the drop of water
       which made the pool palpitate amid the darkness.
 
-
-
-      CHAPTER V. THE MOTHER.
-
       I do not believe that there is anything sweeter in the world than
       the ideas which awake in a mother’s heart at the sight of her
       child’s tiny shoe; especially if it is a shoe for festivals, for
@@ -14937,10 +14483,6 @@ cover
       with her shoulder striking against the wall, with the wild air of
       a female wolf in a cage, who has long been famished, and who
       feels the hour for her repast drawing near.
-
-
-
-      CHAPTER VI. THREE HUMAN HEARTS DIFFERENTLY CONSTRUCTED.
 
       Phœbus was not dead, however. Men of that stamp die hard. When
       Master Philippe Lheulier, advocate extraordinary of the king, had
@@ -15706,14 +15248,6 @@ cover
       the other bank, and the recluse who was still waiting with her
       eyes riveted on the gibbet.
 
-
-
-      BOOK NINTH.
-
-
-
-      CHAPTER I. DELIRIUM.
-
       Claude Frollo was no longer in Notre-Dame when his adopted son so
       abruptly cut the fatal web in which the archdeacon and the gypsy
       were entangled. On returning to the sacristy he had torn off his
@@ -16189,10 +15723,6 @@ cover
       “A spirit passed before my face, and I heard a small voice, and
       the hair of my flesh stood up.”
 
-
-
-      CHAPTER II. HUNCHBACKED, ONE EYED, LAME.
-
       Every city during the Middle Ages, and every city in France down
       to the time of Louis XII. had its places of asylum. These
       sanctuaries, in the midst of the deluge of penal and barbarous
@@ -16358,10 +15888,6 @@ cover
       It afforded her some relief, so calm did the earth appear when
       viewed from that height.
 
-
-
-      CHAPTER III. DEAF.
-
       On the following morning, she perceived on awaking, that she had
       been asleep. This singular thing astonished her. She had been so
       long unaccustomed to sleep! A joyous ray of the rising sun
@@ -16482,10 +16008,6 @@ cover
       use this whistle. I can hear this sound.”
 
       He laid the whistle on the floor and fled.
-
-
-
-      CHAPTER IV. EARTHENWARE AND CRYSTAL.
 
       Day followed day. Calm gradually returned to the soul of la
       Esmeralda. Excess of grief, like excess of joy is a violent thing
@@ -16972,10 +16494,6 @@ cover
       mass lying across her door on the outside. It was Quasimodo
       asleep there upon the stones.
 
-
-
-      CHAPTER V. THE KEY TO THE RED DOOR.
-
       In the meantime, public rumor had informed the archdeacon of the
       miraculous manner in which the gypsy had been saved. When he
       learned it, he knew not what his sensations were. He had
@@ -17054,10 +16572,6 @@ cover
       He knew where to find the key to the red door, which connected
       the cloister with the church, and he always had about him, as the
       reader knows, the key of the staircase leading to the towers.
-
-
-
-      CHAPTER VI. CONTINUATION OF THE KEY TO THE RED DOOR.
 
       That night, la Esmeralda had fallen asleep in her cell, full of
       oblivion, of hope, and of sweet thoughts. She had already been
@@ -17217,15 +16731,6 @@ cover
 
       He repeated with a thoughtful air his fatal words: “No one shall
       have her.”
-
-
-
-      BOOK TENTH.
-
-
-
-      CHAPTER I. GRINGOIRE HAS MANY GOOD IDEAS IN SUCCESSION.—RUE DES
-      BERNARDINS.
 
       As soon as Pierre Gringoire had seen how this whole affair was
       turning, and that there would decidedly be the rope, hanging, and
@@ -17751,10 +17256,6 @@ cover
       water-wagtails, the warblers, and the buntings traverse the
       ocean.”
 
-
-
-      CHAPTER II. TURN VAGABOND.
-
       On re-entering the cloister, the archdeacon found at the door of
       his cell his brother Jehan du Moulin, who was waiting for him,
       and who had beguiled the tedium of waiting by drawing on the wall
@@ -17851,10 +17352,6 @@ cover
       scholar a big bump on the forehead, and with which Jehan
       retreated, both vexed and content, like a dog who had been stoned
       with marrow bones.
-
-
-
-      CHAPTER III. LONG LIVE MIRTH.
 
       The reader has probably not forgotten that a part of the Cour de
       Miracles was enclosed by the ancient wall which surrounded the
@@ -18199,10 +17696,6 @@ cover
       descending towards the Pont au Change, through the tortuous
       streets which pierce the close-built neighborhood of the markets
       in every direction.
-
-
-
-      CHAPTER IV. AN AWKWARD FRIEND.
 
       That night, Quasimodo did not sleep. He had just made his last
       round of the church. He had not noticed, that at the moment when
@@ -19049,11 +18542,6 @@ cover
       gypsy, beholding the furious faces approaching ever nearer and
       nearer to his gallery, entreated heaven for a miracle, and wrung
       his arms in despair.
-
-
-
-      CHAPTER V. THE RETREAT IN WHICH MONSIEUR LOUIS OF FRANCE SAYS HIS
-      PRAYERS.
 
       The reader has not, perhaps, forgotten that one moment before
       catching sight of the nocturnal band of vagabonds, Quasimodo, as
@@ -20513,10 +20001,6 @@ cover
       “Master Jacques,” replied Rym, “’tis because wine renders kings
       less cruel than does barley water.”
 
-
-
-      CHAPTER VI. LITTLE SWORD IN POCKET.
-
       On emerging from the Bastille, Gringoire descended the Rue
       Saint-Antoine with the swiftness of a runaway horse. On arriving
       at the Baudoyer gate, he walked straight to the stone cross which
@@ -20567,10 +20051,6 @@ cover
       “Eh, quick! come!” said the other.
 
       Both descended towards the city with long strides.
-
-
-
-      CHAPTER VII. CHATEAUPERS TO THE RESCUE.
 
       The reader will, perhaps, recall the critical situation in which
       we left Quasimodo. The brave deaf man, assailed on all sides, had
@@ -20653,14 +20133,6 @@ cover
       kneel before her whom he had just saved for the second time.
 
       When he entered the cell, he found it empty.
-
-
-
-      BOOK ELEVENTH.
-
-
-
-      CHAPTER I. THE LITTLE SHOE.
 
       La Esmeralda was sleeping at the moment when the outcasts
       assailed the church.
@@ -22185,10 +21657,6 @@ cover
       The executioner, who had not loosed his hold on the young girl,
       began to ascend the ladder once more.
 
-
-
-      CHAPTER II. THE BEAUTIFUL CREATURE CLAD IN WHITE. (Dante.)
-
       When Quasimodo saw that the cell was empty, that the gypsy was no
       longer there, that while he had been defending her she had been
       abducted, he grasped his hair with both hands and stamped with
@@ -22561,10 +22029,6 @@ cover
       longer retaining the human form, and he said, with a sob which
       heaved his deep chest,—“Oh! all that I have ever loved!”
 
-
-
-      CHAPTER III. THE MARRIAGE OF PHOEBUS.
-
       Towards evening on that day, when the judiciary officers of the
       bishop came to pick up from the pavement of the Parvis the
       dislocated corpse of the archdeacon, Quasimodo had disappeared.
@@ -22595,10 +22059,6 @@ cover
       deed,—one hundred livres.”
 
       Phœbus de Châteaupers also came to a tragic end. He married.
-
-
-
-      CHAPTER IV. THE MARRIAGE OF QUASIMODO.
 
       We have just said that Quasimodo disappeared from Notre-Dame on
       the day of the gypsy’s and of the archdeacon’s death. He was not
@@ -22677,761 +22137,3 @@ cover
       Hence, the man to whom it had belonged had come thither and had
       died there. When they tried to detach the skeleton which he held
       in his embrace, he fell to dust.
-
-
-
-      NOTE
-      ADDED TO THE DEFINITIVE EDITION.
-
-      It is by mistake that this edition was announced as augmented by
-      many _new_ chapters. The word should have been _unpublished_. In
-      fact, if by new, _newly made_ is to be understood, the chapters
-      added to this edition are not new. They were written at the same
-      time as the rest of the work; they date from the same epoch, and
-      sprang from the same thought, they have always formed a part of
-      the manuscript of “Notre-Dame-de-Paris.” Moreover, the author
-      cannot comprehend how fresh developments could be added to a work
-      of this character after its completion. This is not to be done at
-      will. According to his idea, a romance is born in a manner that
-      is, in some sort, necessary, with all its chapters; a drama is
-      born with all its scenes. Think not that there is anything
-      arbitrary in the numbers of parts of which that whole, that
-      mysterious microcosm which you call a drama or a romance, is
-      composed. Grafting and soldering take badly on works of this
-      nature, which should gush forth in a single stream and so remain.
-      The thing once done, do not change your mind, do not touch it up.
-      The book once published, the sex of the work, whether virile or
-      not, has been recognized and proclaimed; when the child has once
-      uttered his first cry he is born, there he is, he is made so,
-      neither father nor mother can do anything, he belongs to the air
-      and to the sun, let him live or die, such as he is. Has your book
-      been a failure? So much the worse. Add no chapters to an
-      unsuccessful book. Is it incomplete? You should have completed it
-      when you conceived it. Is your tree crooked? You cannot
-      straighten it up. Is your romance consumptive? Is your romance
-      not capable of living? You cannot supply it with the breath which
-      it lacks. Has your drama been born lame? Take my advice, and do
-      not provide it with a wooden leg.
-
-      Hence the author attaches particular importance to the public
-      knowing for a certainty that the chapters here added have not
-      been made expressly for this reprint. They were not published in
-      the preceding editions of the book for a very simple reason. At
-      the time when “Notre-Dame-de-Paris” was printed the first time,
-      the manuscript of these three chapters had been mislaid. It was
-      necessary to rewrite them or to dispense with them. The author
-      considered that the only two of these chapters which were in the
-      least important, owing to their extent, were chapters on art and
-      history which in no way interfered with the groundwork of the
-      drama and the romance, that the public would not notice their
-      loss, and that he, the author, would alone be in possession of
-      the secret. He decided to omit them, and then, if the whole truth
-      must be confessed, his indolence shrunk from the task of
-      rewriting the three lost chapters. He would have found it a
-      shorter matter to make a new romance.
-
-      Now the chapters have been found, and he avails himself of the
-      first opportunity to restore them to their place.
-
-      This now, is his entire work, such as he dreamed it, such as he
-      made it, good or bad, durable or fragile, but such as he wishes
-      it.
-
-      These recovered chapters will possess no doubt, but little value
-      in the eyes of persons, otherwise very judicious, who have sought
-      in “Notre-Dame-de-Paris” only the drama, the romance. But there
-      are perchance, other readers, who have not found it useless to
-      study the æsthetic and philosophic thought concealed in this
-      book, and who have taken pleasure, while reading
-      “Notre-Dame-de-Paris,” in unravelling beneath the romance
-      something else than the romance, and in following (may we be
-      pardoned these rather ambitious expressions), the system of the
-      historian and the aim of the artist through the creation of the
-      poet.
-
-      For such people especially, the chapters added to this edition
-      will complete “Notre-Dame-de-Paris,” if we admit that
-      “Notre-Dame-de-Paris” was worth the trouble of completing.
-
-      In one of these chapters on the present decadence of
-      architecture, and on the death (in his mind almost inevitable) of
-      that king of arts, the author expresses and develops an opinion
-      unfortunately well rooted in him, and well thought out. But he
-      feels it necessary to say here that he earnestly desires that the
-      future may, some day, put him in the wrong. He knows that art in
-      all its forms has everything to hope from the new generations
-      whose genius, still in the germ, can be heard gushing forth in
-      our studios. The grain is in the furrow, the harvest will
-      certainly be fine. He merely fears, and the reason may be seen in
-      the second volume of this edition, that the sap may have been
-      withdrawn from that ancient soil of architecture which has been
-      for so many centuries the best field for art.
-
-      Nevertheless, there are to-day in the artistic youth so much
-      life, power, and, so to speak, predestination, that in our
-      schools of architecture in particular, at the present time, the
-      professors, who are detestable, produce, not only unconsciously
-      but even in spite of themselves, excellent pupils; quite the
-      reverse of that potter mentioned by Horace, who dreamed amphoræ
-      and produced pots. _Currit rota, urcens exit_.
-
-      But, in any case, whatever may be the future of architecture, in
-      whatever manner our young architects may one day solve the
-      question of their art, let us, while waiting for new monument,
-      preserve the ancient monuments. Let us, if possible, inspire the
-      nation with a love for national architecture. That, the author
-      declares, is one of the principal aims of this book; it is one of
-      the principal aims of his life.
-
-      “Notre-Dame-de-Paris” has, perhaps opened some true perspectives
-      on the art of the Middle Ages, on that marvellous art which up to
-      the present time has been unknown to some, and, what is worse,
-      misknown by others. But the author is far from regarding as
-      accomplished, the task which he has voluntarily imposed on
-      himself. He has already pleaded on more than one occasion, the
-      cause of our ancient architecture, he has already loudly
-      denounced many profanations, many demolitions, many impieties. He
-      will not grow weary. He has promised himself to recur frequently
-      to this subject. He will return to it. He will be as
-      indefatigable in defending our historical edifices as our
-      iconoclasts of the schools and academies are eager in attacking
-      them; for it is a grievous thing to see into what hands the
-      architecture of the Middle Ages has fallen, and in what a manner
-      the botchers of plaster of the present day treat the ruin of this
-      grand art, it is even a shame for us intelligent men who see them
-      at work and content ourselves with hooting them. And we are not
-      speaking here merely of what goes on in the provinces, but of
-      what is done in Paris at our very doors, beneath our windows, in
-      the great city, in the lettered city, in the city of the press,
-      of word, of thought. We cannot resist the impulse to point out,
-      in concluding this note, some of the acts of vandalism which are
-      every day planned, debated, begun, continued, and successfully
-      completed under the eyes of the artistic public of Paris, face to
-      face with criticism, which is disconcerted by so much audacity.
-      An archbishop’s palace has just been demolished, an edifice in
-      poor taste, no great harm is done; but in a block with the
-      archiepiscopal palace a bishop’s palace has been demolished, a
-      rare fragment of the fourteenth century, which the demolishing
-      architect could not distinguish from the rest. He has torn up the
-      wheat with the tares; ’tis all the same. They are talking of
-      razing the admirable chapel of Vincennes, in order to make, with
-      its stones, some fortification, which Daumesnil did not need,
-      however. While the Palais Bourbon, that wretched edifice, is
-      being repaired at great expense, gusts of wind and equinoctial
-      storms are allowed to destroy the magnificent painted windows of
-      the Sainte-Chapelle. For the last few days there has been a
-      scaffolding on the tower of Saint Jacques de la Boucherie; and
-      one of these mornings the pick will be laid to it. A mason has
-      been found to build a little white house between the venerable
-      towers of the Palais de-Justice. Another has been found willing
-      to prune away Saint-Germain-des-Prés, the feudal abbey with three
-      bell towers. Another will be found, no doubt, capable of pulling
-      down Saint-Germain l’Auxerrois. All these masons claim to be
-      architects, are paid by the prefecture or from the petty budget,
-      and wear green coats. All the harm which false taste can inflict
-      on good taste, they accomplish. While we write, deplorable
-      spectacle! one of them holds possession of the Tuileries, one of
-      them is giving Philibert Delorme a scar across the middle of his
-      face; and it is not, assuredly, one of the least of the scandals
-      of our time to see with what effrontery the heavy architecture of
-      this gentleman is being flattened over one of the most delicate
-      façades of the Renaissance!
-
-      PARIS, October 20, 1832.
-
-
-
-      FOOTNOTES:
-
-
-1 (return) The word Gothic, in the sense in which it is generally
-employed, is wholly unsuitable, but wholly consecrated. Hence we accept
-it and we adopt it, like all the rest of the world, to characterize the
-architecture of the second half of the Middle Ages, where the ogive is
-the principle which succeeds the architecture of the first period, of
-which the semi-circle is the father.
-
-2 (return) _Faire le diable à quatre_.
-
-3 (return) _Thibaut au des_,—Thibaut of the dice.
-
-4 (return) An old French coin, equal to the two hundred and fortieth
-part of a pound.
-
-5 (return) Got the first idea of a thing.
-
-6 (return) The ancient French _hurrah_.
-
-7 (return) A chamber of the ancient parliament of Paris.
-
-8 (return) A blank: an old French coin; six blanks were worth two sous
-and a half; targe, an ancient coin of Burgundy, a farthing.
-
-9 (return)
-A coffer of great richness
-    In a pillar’s heart they found,
-Within it lay new banners,
-    With figures to astound.
-
-10 (return) Alms.
-
-11 (return) Give me the means to buy a bit of bread, sir.
-
-12 (return) A high-toned sharper.
-
-13 (return) Thieves.
-
-14 (return) L’argot.
-
-15 (return) A small dessert apple, bright red on one side and
-greenish-white on the other.
-
-16 (return) When the gay-plumaged birds grow weary, and the earth—
-
-17 (return)
-My father is a bird,
-my mother is a bird.
-I cross the water without a barque,
-I cross the water without a boat.
-My mother is a bird,
-my father is a bird.
-
-18 (return) Time is a devourer; man, more so.
-
-19 (return) _Histoire Gallicane_, liv. II. Periode III. fo. 130, p. 1.
-
-20 (return) This is the same which is called, according to locality,
-climate, and races, Lombard, Saxon, or Byzantine. There are four sister
-and parallel architectures, each having its special character, but
-derived from the same origin, the round arch.
-
-_Facies non omnibus una,
-Non diversa tamen, qualem_, etc.
-
-Their faces not all alike, nor yet different, but such as the faces of
-sisters ought to be.
-
-21 (return) This portion of the spire, which was of woodwork, is
-precisely that which was consumed by lightning, in 1823.
-
-22 (return) The wall walling Paris makes Paris murmur.
-
-23 (return) We have seen with sorrow mingled with indignation, that it
-is the intention to increase, to recast, to make over, that is to say,
-to destroy this admirable palace. The architects of our day have too
-heavy a hand to touch these delicate works of the Renaissance. We still
-cherish a hope that they will not dare. Moreover, this demolition of
-the Tuileries now, would be not only a brutal deed of violence, which
-would make a drunken vandal blush—it would be an act of treason. The
-Tuileries is not simply a masterpiece of the art of the sixteenth
-century, it is a page of the history of the nineteenth. This palace no
-longer belongs to the king, but to the people. Let us leave it as it
-is. Our revolution has twice set its seal upon its front. On one of its
-two façades, there are the cannon-balls of the 10th of August; on the
-other, the balls of the 29th of July. It is sacred. Paris, April 7,
-1831. (_Note to the fifth edition._)
-
-24 (return) The tenth month of the French republican calendar, from the
-19th of June to the 18th of July.
-
-25 (return) An official of Notre-Dame, lower than a beneficed
-clergyman, higher than simple paid chanters.
-
-26 (return) Hugo II. de Bisuncio, 1326-1332.
-
-27 (return) This comet against which Pope Calixtus, uncle of Borgia,
-ordered public prayers, is the same which reappeared in 1835.
-
-28 (return) Comptes du domaine, 1383.
-
-29 (return) A _Queue_ was a cask which held a hogshead and a half.
-
-30 (return) A captain of fifty men.
-
-31 (return) Ox-eye daisy.
-
-32 (return) Easter daisy.
-
-33 (return) A rope for the gallows bird!  A fagot for the ape.
-
-34 (return) An ancient Burgundian coin.
-
-35 (return) An ancient French coin.
-
-36 (return) Truly, these roastings are a stupendous thing!
-
-37 (return) Peter the Slaughterer; and Baptist Crack-Gosling.
-
-38 (return) An ancient copper coin, the forty-fourth part of a sou or
-the twelfth part of a farthing.
-
-39 (return) Une vielle qui _scie_ une _anse_
-
-40 (return) Cut-Weazand Street.
-
-41 (return) Cut-Throat Street.
-
-42 (return) The children of the Petits Carreaux let themselves be hung
-like calves.
-
-43 (return) When the rats eat the cats, the king will be lord of Arras;
-when the sea which is great and wide, is frozen over at St. John’s
-tide, men will see across the ice, those who dwell in Arras quit their
-place.
-
-44 (return) Varieties of the crossbow.
-
-45 (return) The substance of this exordium is contained in the
-president’s sentence.
-
-46 (return) “He that heareth my word and believeth on Him that sent me,
-hath eternal life, and hath not come into condemnation; but is passed
-from death to life.”
-
-47 (return) “Out of the belly of hell cried I, and thou heardest my
-voice. For thou hadst cast me into the deep in the midst of the seas,
-and the floods compassed me about.”
-
-48 (return) “Go now, soul, trembling in the balance, and God have mercy
-upon thee.”
-
-49 (return) “Lord have mercy upon us.”
-
-50 (return) “All thy waves and thy billows have gone over me.”
-
-51 (return) Bark, Grève, grumble, Grève!  Spin, spin, my distaff, spin
-her rope for the hangman, who is whistling in the meadow. What a
-beautiful hempen rope! Sow hemp, not wheat, from Issy to Vanvre. The
-thief hath not stolen the beautiful hempen rope. Grumble, Grève, bark,
-Grève! To see the dissolute wench hang on the blear-eyed gibbet,
-windows are eyes.
-
-52 (return) Look not at the face, young girl, look at the heart.  The
-heart of a handsome young man is often deformed. There are hearts in
-which love does not keep. Young girl, the pine is not beautiful; it is
-not beautiful like the poplar, but it keeps its foliage in winter.
-Alas! What is the use of saying that? That which is not beautiful has
-no right to exist; beauty loves only beauty; April turns her back on
-January. Beauty is perfect, beauty can do all things, beauty is the
-only thing which does not exist by halves. The raven flies only by day,
-the owl flies only by night, the swan flies by day and by night.
-
-53 (return) _Sols neufs: poulets tués_.
-
-54 (return) An arrow with a pyramidal head of iron and copper spiral
-wings, by which a rotatory motion was communicated.
-
-55 (return) A game played on a checker-board containing three
-concentric sets of squares, with small stones. The game consisted in
-getting three stones in a row.
-
-56 (return) Good night, father and mother, the last cover up the fire.
-
-57 (return) That I will drink no spiced and honeyed wine for a year, if
-I am lying now.
-
-58 (return) And by the blood of God, I have neither faith nor law, nor
-fire nor dwelling-place, nor king nor God.
-
-59 (return) Men of the brotherhood of slang: thieves.
-
-60 (return) Cut-throat. Coupe-gueule being the vulgar word for
-cut-weazand.
-
-61 (return) The representation of a monstrous animal solemnly drawn
-about in Tarascon and other French towns.
-
-62 (return) An arrow with a pyramidal head of iron and copper spiral
-wings by which a rotatory motion was communicated.
-
-63 (return) The city of Cambrai is well dressed. Marafin plundered it.
-
-64 (return) An ancient long measure in France, containing six feet and
-nearly five inches English measure.
-
-65 (return) Master Jean Balue has lost sight of his bishoprics.
-Monsieur of Verdun has no longer one; all have been killed off.
-
-66 (return) One in charge of the highways.
-
-67 (return) A lord having a right on the woods of his vassals.
-
-68 (return) When thou shalt find its mate, thy mother will stretch out
-her arms to thee.
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Notre-Dame de Paris, by Victor Hugo
-
-*** END OF THIS PROJECT GUTENBERG EBOOK NOTRE-DAME DE PARIS ***
-
-***** This file should be named 2610-0.txt or 2610-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/6/1/2610/
-
-Produced by Peter Snow Cao, and David Widger
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-
-
-
-
-

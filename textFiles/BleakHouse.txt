@@ -1,124 +1,3 @@
-The Project Gutenberg eBook, Bleak House, by Charles Dickens
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: Bleak House
-
-
-Author: Charles Dickens
-
-
-Release Date: August 1, 1997  [eBook #1023]
-Most recently updated: February 21, 2012
-
-Language: English
-
-Character set encoding: ISO-646-US (US-ASCII)
-
-
-***START OF THE PROJECT GUTENBERG EBOOK BLEAK HOUSE***
-
-
-E-text prepared by Donald Lainson, Toronto, Canada,
-and revised by Thomas Berger and Joseph E. Loewenstein, M.D.
-
-
-
-BLEAK HOUSE
-
-by
-
-CHARLES DICKENS
-
-
-
-
-
-CONTENTS
-
-            Preface
-         I. In Chancery
-        II. In Fashion
-       III. A Progress
-        IV. Telescopic Philanthropy
-         V. A Morning Adventure
-        VI. Quite at Home
-       VII. The Ghost's Walk
-      VIII. Covering a Multitude of Sins
-        IX. Signs and Tokens
-         X. The Law-Writer
-        XI. Our Dear Brother
-       XII. On the Watch
-      XIII. Esther's Narrative
-       XIV. Deportment
-        XV. Bell Yard
-       XVI. Tom-all-Alone's
-      XVII. Esther's Narrative
-     XVIII. Lady Dedlock
-       XIX. Moving On
-        XX. A New Lodger
-       XXI. The Smallweed Family
-      XXII. Mr. Bucket
-     XXIII. Esther's Narrative
-      XXIV. An Appeal Case
-       XXV. Mrs. Snagsby Sees It All
-      XXVI. Sharpshooters
-     XXVII. More Old Soldiers Than One
-    XXVIII. The Ironmaster
-      XXIX. The Young Man
-       XXX. Esther's Narrative
-      XXXI. Nurse and Patient
-     XXXII. The Appointed Time
-    XXXIII. Interlopers
-     XXXIV. A Turn of the Screw
-      XXXV. Esther's Narrative
-     XXXVI. Chesney Wold
-    XXXVII. Jarndyce and Jarndyce
-   XXXVIII. A Struggle
-     XXXIX. Attorney and Client
-        XL. National and Domestic
-       XLI. In Mr. Tulkinghorn's Room
-      XLII. In Mr. Tulkinghorn's Chambers
-     XLIII. Esther's Narrative
-      XLIV. The Letter and the Answer
-       XLV. In Trust
-      XLVI. Stop Him!
-     XLVII. Jo's Will
-    XLVIII. Closing In
-      XLIX. Dutiful Friendship
-         L. Esther's Narrative
-        LI. Enlightened
-       LII. Obstinacy
-      LIII. The Track
-       LIV. Springing a Mine
-        LV. Flight
-       LVI. Pursuit
-      LVII. Esther's Narrative
-     LVIII. A Wintry Day and Night
-       LIX. Esther's Narrative
-        LX. Perspective
-       LXI. A Discovery
-      LXII. Another Discovery
-     LXIII. Steel and Iron
-   LXIV. Esther's Narrative
-   LXV. Beginning the World
-   LXVI. Down in Lincolnshire
-   LXVII. The Close of Esther's Narrative
-
-
-
-
-PREFACE
-
-
 A Chancery judge once had the kindness to inform me, as one of a
 company of some hundred and fifty men and women not labouring under
 any suspicions of lunacy, that the Court of Chancery, though the
@@ -207,14 +86,6 @@ familiar things.
     occurred at the town of Columbus, in the United States
     of America, quite recently. The subject was a German who
     kept a liquor-shop and was an inveterate drunkard.
-
-
-
-
-CHAPTER I
-
-In Chancery
-
 
 London. Michaelmas term lately over, and the Lord Chancellor sitting
 in Lincoln's Inn Hall. Implacable November weather. As much mud in
@@ -480,14 +351,6 @@ If all the injustice it has committed and all the misery it has
 caused could only be locked up with it, and the whole burnt away in a
 great funeral pyre--why so much the better for other parties than the
 parties in Jarndyce and Jarndyce!
-
-
-
-
-CHAPTER II
-
-In Fashion
-
 
 It is but a glimpse of the world of fashion that we want on this same
 miry afternoon. It is not so unlike the Court of Chancery but that we
@@ -781,14 +644,6 @@ Tulkinghorn to return.
 and read to him alone. "I have been quite alarmed. I never knew my
 Lady swoon before. But the weather is extremely trying, and she
 really has been bored to death down at our place in Lincolnshire."
-
-
-
-
-CHAPTER III
-
-A Progress
-
 
 I have a great deal of difficulty in beginning to write my portion of
 these pages, for I know I am not clever. I always knew that. I can
@@ -1668,14 +1523,6 @@ with a curtsy and a smile between every little sentence, "Youth. And
 hope. And beauty. And Chancery. And Conversation Kenge! Ha! Pray
 accept my blessing!"
 
-
-
-
-CHAPTER IV
-
-Telescopic Philanthropy
-
-
 We were to pass the night, Mr. Kenge told us when we arrived in his
 room, at Mrs. Jellyby's; and then he turned to me and said he took it
 for granted I knew who Mrs. Jellyby was.
@@ -2235,14 +2082,6 @@ eyes to encounter those of a dirty-faced little spectre fixed upon
 me. Peepy had scaled his crib, and crept down in his bed-gown and
 cap, and was so cold that his teeth were chattering as if he had cut
 them all.
-
-
-
-
-CHAPTER V
-
-A Morning Adventure
-
 
 Although the morning was raw, and although the fog still seemed
 heavy--I say seemed, for the windows were so encrusted with dirt that
@@ -2843,14 +2682,6 @@ separation (I was not without misgivings that he had gone to Newgate
 market in search of me); and all the other children got up behind the
 barouche and fell off, and we saw them, with great concern, scattered
 over the surface of Thavies Inn as we rolled out of its precincts.
-
-
-
-
-CHAPTER VI
-
-Quite at Home
-
 
 The day had brightened very much, and still brightened as we went
 westward. We went our way through the sunshine and the fresh air,
@@ -3795,14 +3626,6 @@ Duty, my dear!" and gave my little basket of housekeeping keys such a
 shake that they sounded like little bells and rang me hopefully to
 bed.
 
-
-
-
-CHAPTER VII
-
-The Ghost's Walk
-
-
 While Esther sleeps, and while Esther wakes, it is still wet weather
 down at the place in Lincolnshire. The rain is ever falling--drip,
 drip, drip--by day and night upon the broad flagged terrace-pavement,
@@ -4254,14 +4077,6 @@ beat, and everything?"
 "I certainly can!"
 
 "So my Lady says."
-
-
-
-
-CHAPTER VIII
-
-Covering a Multitude of Sins
-
 
 It was interesting when I dressed before daylight to peep out of
 window, where my candles were reflected in the black panes like
@@ -5104,14 +4919,6 @@ hand; not all unconscious of her presently, when we had taken leave,
 and left her at the door, by turns looking, and listening in terror
 for herself, and saying in her old soothing manner, "Jenny, Jenny!"
 
-
-
-
-CHAPTER IX
-
-Signs and Tokens
-
-
 I don't know how it is I seem to be always writing about myself. I
 mean all the time to write about other people, and I try to think
 about myself as little as possible, and I am sure, when I find myself
@@ -5779,14 +5586,6 @@ about it. In short, I was in a flutter for a little while and felt as
 if an old chord had been more coarsely touched than it ever had been
 since the days of the dear old doll, long buried in the garden.
 
-
-
-
-CHAPTER X
-
-The Law-Writer
-
-
 On the eastern borders of Chancery Lane, that is to say, more
 particularly in Cook's Court, Cursitor Street, Mr. Snagsby,
 law-stationer, pursues his lawful calling. In the shade of Cook's
@@ -6241,14 +6040,6 @@ but his eyes are surely open.
 As he rattles on the door, the candle which has drooped so long goes
 out and leaves him in the dark, with the gaunt eyes in the shutters
 staring down upon the bed.
-
-
-
-
-CHAPTER XI
-
-Our Dear Brother
-
 
 A touch on the lawyer's wrinkled hand as he stands in the dark room,
 irresolute, makes him start and say, "What's that?"
@@ -6889,14 +6680,6 @@ exactly say" what will be done to him in greater hands than men's,
 thou art not quite in outer darkness. There is something like a
 distant ray of light in thy muttered reason for this: "He wos wery
 good to me, he wos!"
-
-
-
-
-CHAPTER XII
-
-On the Watch
-
 
 It has left off raining down in Lincolnshire at last, and Chesney
 Wold has taken heart. Mrs. Rouncewell is full of hospitable cares,
@@ -7542,14 +7325,6 @@ reservation; whether each is evermore prepared at all points for the
 other, and never to be taken unawares; what each would give to know
 how much the other knows--all this is hidden, for the time, in their
 own hearts.
-
-
-
-
-CHAPTER XIII
-
-Esther's Narrative
-
 
 We held many consultations about what Richard was to be, first
 without Mr. Jarndyce, as he had requested, and afterwards with him,
@@ -8227,14 +8002,6 @@ at the family dinner party. It was not a lady. It was a gentleman. It
 was a gentleman of a dark complexion--a young surgeon. He was rather
 reserved, but I thought him very sensible and agreeable. At least,
 Ada asked me if I did not, and I said yes.
-
-
-
-
-CHAPTER XIV
-
-Deportment
-
 
 Richard left us on the very next evening to begin his new career, and
 committed Ada to my charge with great love for her and great trust in
@@ -9168,14 +8935,6 @@ laughed and said--
 But I don't think it matters what my darling said. She was always
 merry.
 
-
-
-
-CHAPTER XV
-
-Bell Yard
-
-
 While we were in London Mr. Jarndyce was constantly beset by the
 crowd of excitable ladies and gentlemen whose proceedings had so much
 astonished us. Mr. Quale, who presented himself soon after our
@@ -9862,14 +9621,6 @@ her womanly bonnet and apron, through a covered way at the bottom of
 the court and melt into the city's strife and sound like a dewdrop in
 an ocean.
 
-
-
-
-CHAPTER XVI
-
-Tom-all-Alone's
-
-
 My Lady Dedlock is restless, very restless. The astonished
 fashionable intelligence hardly knows where to have her. To-day she
 is at Chesney Wold; yesterday she was at her house in town; to-morrow
@@ -10259,14 +10010,6 @@ fireside in his own snug dressing-room.
 house, my dear," says Mrs. Rouncewell to Rosa. "His dressing-room is
 on my Lady's side. And in all these years I never heard the step upon
 the Ghost's Walk more distinct than it is to-night!"
-
-
-
-
-CHAPTER XVII
-
-Esther's Narrative
-
 
 Richard very often came to see us while we remained in London (though
 he soon failed in his letter-writing), and with his quick abilities,
@@ -10914,14 +10657,6 @@ left them on purpose!"
 behind me and clasping me merrily round the waist. "Oh, yes, indeed
 they do, Dame Durden! They look very, very like that sort of thing.
 Oh, very like it indeed, my dear!"
-
-
-
-
-CHAPTER XVIII
-
-Lady Dedlock
-
 
 It was not so easy as it had appeared at first to arrange for
 Richard's making a trial of Mr. Kenge's office. Richard himself was
@@ -11674,14 +11409,6 @@ a fairy carriage made of silver. Still, very steadfastly and quietly
 walking towards it, a peaceful figure too in the landscape, went
 Mademoiselle Hortense, shoeless, through the wet grass.
 
-
-
-
-CHAPTER XIX
-
-Moving On
-
-
 It is the long vacation in the regions of Chancery Lane. The good
 ships Law and Equity, those teak-built, copper-bottomed,
 iron-fastened, brazen-faced, and not by any means fast-sailing
@@ -12295,14 +12022,6 @@ reach. There he sits, the sun going down, the river running fast, the
 crowd flowing by him in two streams--everything moving on to some
 purpose and to one end--until he is stirred up and told to "move on"
 too.
-
-
-
-
-CHAPTER XX
-
-A New Lodger
-
 
 The long vacation saunters on towards term-time like an idle river
 very leisurely strolling down a flat country to the sea. Mr. Guppy
@@ -12954,14 +12673,6 @@ firstly, that if her Johnny was to have whiskers, she could wish 'em
 to be identically like that young man's; and secondly, "Mark my
 words, Mrs. Perkins, ma'am, and don't you be surprised, Lord bless
 you, if that young man comes in at last for old Krook's money!"
-
-
-
-
-CHAPTER XXI
-
-The Smallweed Family
-
 
 In a rather ill-favoured and ill-savoured neighbourhood, though one
 of its rising grounds bears the name of Mount Pleasant, the Elfin
@@ -13776,14 +13487,6 @@ rifle-distance and looking up at the moon now shining through the
 skylights, strides to his own mattress by a shorter route and goes to
 bed too.
 
-
-
-
-CHAPTER XXII
-
-Mr. Bucket
-
-
 Allegory looks pretty cool in Lincoln's Inn Fields, though the
 evening is hot, for both Mr. Tulkinghorn's windows are wide open, and
 the room is lofty, gusty, and gloomy. These may not be desirable
@@ -14411,14 +14114,6 @@ the police-station with official intelligence of her husband's being
 made away with, and who within the last two hours has passed through
 every stage of swooning with the greatest decorum. But as the little
 woman feelingly says, many thanks she gets for it!
-
-
-
-
-CHAPTER XXIII
-
-Esther's Narrative
-
 
 We came home from Mr. Boythorn's after six pleasant weeks. We were
 often in the park and in the woods and seldom passed the lodge where
@@ -15258,14 +14953,6 @@ And I said again, "I can't help it, Charley."
 And Charley said again, "No, miss, nor I can't help it." And so,
 after all, I did cry for joy indeed, and so did she.
 
-
-
-
-CHAPTER XXIV
-
-An Appeal Case
-
-
 As soon as Richard and I had held the conversation of which I have
 given an account, Richard communicated the state of his mind to Mr.
 Jarndyce. I doubt if my guardian were altogether taken by surprise
@@ -16075,14 +15762,6 @@ alone comes natural to me, and I am fit for. There is a tie of many
 suffering years between us two, and it is the only tie I ever had on
 earth that Chancery has not broken!"
 
-
-
-
-CHAPTER XXV
-
-Mrs. Snagsby Sees It All
-
-
 There is disquietude in Cook's Court, Cursitor Street. Black
 suspicion hides in that peaceful region. The mass of Cook's Courtiers
 are in their usual state of mind, no better and no worse; but Mr.
@@ -16458,14 +16137,6 @@ own. And into whatsoever atmosphere of secrecy his own shadow may
 pass, let all concerned in the secrecy beware! For the watchful Mrs.
 Snagsby is there too--bone of his bone, flesh of his flesh, shadow of
 his shadow.
-
-
-
-
-CHAPTER XXVI
-
-Sharpshooters
-
 
 Wintry morning, looking with dull eyes and sallow face upon the
 neighbourhood of Leicester Square, finds its inhabitants unwilling to
@@ -17092,14 +16763,6 @@ cap over one eye is always sliding off the seat into the straw and
 looking upward at him out of his other eye with a helpless expression
 of being jolted in the back.
 
-
-
-
-CHAPTER XXVII
-
-More Old Soldiers Than One
-
-
 Mr. George has not far to ride with folded arms upon the box, for
 their destination is Lincoln's Inn Fields. When the driver stops his
 horses, Mr. George alights, and looking in at the window, says,
@@ -17683,14 +17346,6 @@ This so intensifies his dudgeon that for five minutes he is in an ill
 humour. But he whistles that off like the rest of it and marches home
 to the shooting gallery.
 
-
-
-
-CHAPTER XXVIII
-
-The Ironmaster
-
-
 Sir Leicester Dedlock has got the better, for the time being, of the
 family gout and is once more, in a literal no less than in a
 figurative point of view, upon his legs. He is at his place in
@@ -18196,14 +17851,6 @@ disperse to the four winds of heaven; and the one wintry wind that
 blows to-day shakes a shower from the trees near the deserted house,
 as if all the cousins had been changed into leaves.
 
-
-
-
-CHAPTER XXIX
-
-The Young Man
-
-
 Chesney Wold is shut up, carpets are rolled into great scrolls in
 corners of comfortless rooms, bright damask does penance in brown
 holland, carving and gilding puts on mortification, and the Dedlock
@@ -18635,14 +18282,6 @@ going upward from a wild figure on its knees.
 "O my child, my child! Not dead in the first hours of her life, as my
 cruel sister told me, but sternly nurtured by her, after she had
 renounced me and my name! O my child, O my child!"
-
-
-
-
-CHAPTER XXX
-
-Esther's Narrative
-
 
 Richard had been gone away some time when a visitor came to pass a
 few days with us. It was an elderly lady. It was Mrs. Woodcourt, who,
@@ -19342,14 +18981,6 @@ long time ago. I must write it even if I rub it out again, because it
 gives me so much pleasure. They said there could be no east wind
 where Somebody was; they said that wherever Dame Durden went, there
 was sunshine and summer air.
-
-
-
-
-CHAPTER XXXI
-
-Nurse and Patient
-
 
 I had not been at home again many days when one evening I went
 upstairs into my own room to take a peep over Charley's shoulder and
@@ -20068,14 +19699,6 @@ one moment as I lie here, I shall die."
 little while, and touch me with your hand. For I cannot see you,
 Charley; I am blind."
 
-
-
-
-CHAPTER XXXII
-
-The Appointed Time
-
-
 It is night in Lincoln's Inn--perplexed and troublous valley of the
 shadow of the law, where suitors generally find but little day--and
 fat candles are snuffed out in offices, and clerks have rattled down
@@ -20705,14 +20328,6 @@ will, it is the same death eternally--inborn, inbred, engendered
 in the corrupted humours of the vicious body itself, and that
 only--spontaneous combustion, and none other of all the deaths that
 can be died.
-
-
-
-
-CHAPTER XXXIII
-
-Interlopers
-
 
 Now do those two gentlemen not very neat about the cuffs and buttons
 who attended the last coroner's inquest at the Sol's Arms reappear in
@@ -21390,14 +21005,6 @@ Mr. Guppy sneaks away. Mr. Tulkinghorn, such a foil in his
 old-fashioned rusty black to Lady Dedlock's brightness, hands her
 down the staircase to her carriage. He returns rubbing his chin, and
 rubs it a good deal in the course of the evening.
-
-
-
-
-CHAPTER XXXIV
-
-A Turn of the Screw
-
 
 "Now, what," says Mr. George, "may this be? Is it blank cartridge or
 ball? A flash in the pan or a shot?"
@@ -22125,14 +21732,6 @@ Mr. George concludes by rising from his chair, seating the boy beside
 his mother in it, and saying, with something of a hurry about him,
 that he'll smoke his pipe in the street a bit.
 
-
-
-
-CHAPTER XXXV
-
-Esther's Narrative
-
-
 I lay ill through several weeks, and the usual tenor of my life
 became like an old remembrance. But this was not the effect of time
 so much as of the change in all my habits made by the helplessness
@@ -22791,14 +22390,6 @@ I might aspire to meet him, unselfishly, innocently, better far than
 he had thought me when I found some favour in his eyes, at the
 journey's end.
 
-
-
-
-CHAPTER XXXVI
-
-Chesney Wold
-
-
 Charley and I did not set off alone upon our expedition into
 Lincolnshire. My guardian had made up his mind not to lose sight of
 me until I was safe in Mr. Boythorn's house, so he accompanied us,
@@ -23434,14 +23025,6 @@ girl down upon the floor too, holding my scarred face to her lovely
 cheek, bathing it with tears and kisses, rocking me to and fro like a
 child, calling me by every tender name that she could think of, and
 pressing me to her faithful heart.
-
-
-
-
-CHAPTER XXXVII
-
-Jarndyce and Jarndyce
-
 
 If the secret I had to keep had been mine, I must have confided it to
 Ada before we had been long together. But it was not mine, and I did
@@ -24288,14 +23871,6 @@ and the journey's end is growing visible; and true and good above the
 dead sea of the Chancery suit and all the ashy fruit it cast ashore,
 I think I see my darling.
 
-
-
-
-CHAPTER XXXVIII
-
-A Struggle
-
-
 When our time came for returning to Bleak House again, we were
 punctual to the day and were received with an overpowering welcome. I
 was perfectly restored to health and strength, and finding my
@@ -24768,14 +24343,6 @@ conspicuous in the windy street (particularly as his hair wanted
 cutting) to make us hurry away. I did so with a lightened heart; but
 when we last looked back, Mr. Guppy was still oscillating in the same
 troubled state of mind.
-
-
-
-
-CHAPTER XXXIX
-
-Attorney and Client
-
 
 The name of Mr. Vholes, preceded by the legend Ground-Floor, is
 inscribed upon a door-post in Symond's Inn, Chancery Lane--a little,
@@ -25439,14 +25006,6 @@ This charge Mr. Guppy delivers in a state little short of forensic
 lunacy, while his friend shows a dazed mind in his whole head of hair
 and even in his cultivated whiskers.
 
-
-
-
-CHAPTER XL
-
-National and Domestic
-
-
 England has been in a dreadful state for some weeks. Lord Coodle
 would go out, Sir Thomas Doodle wouldn't come in, and there being
 nobody in Great Britain (to speak of) except Coodle and Doodle, there
@@ -25981,14 +25540,6 @@ after by admiring eyes, passes away slowly down the long perspective
 by the side of that nymph, not at all improving her as a question of
 contrast.
 
-
-
-
-CHAPTER XLI
-
-In Mr. Tulkinghorn's Room
-
-
 Mr. Tulkinghorn arrives in his turret-room a little breathed by the
 journey up, though leisurely performed. There is an expression on his
 face as if he had discharged his mind of some grave matter and were,
@@ -26397,14 +25948,6 @@ head cheerfully proclaiming that Sir Leicester and Lady Dedlock are
 in their happy home and that there is hospitality at the place in
 Lincolnshire.
 
-
-
-
-CHAPTER XLII
-
-In Mr. Tulkinghorn's Chambers
-
-
 From the verdant undulations and the spreading oaks of the Dedlock
 property, Mr. Tulkinghorn transfers himself to the stale heat and
 dust of London. His manner of coming and going between the two places
@@ -26752,14 +26295,6 @@ gone, he goes down too, and returning with his cobweb-covered bottle,
 devotes himself to a leisurely enjoyment of its contents, now and
 then, as he throws his head back in his chair, catching sight of the
 pertinacious Roman pointing from the ceiling.
-
-
-
-
-CHAPTER XLIII
-
-Esther's Narrative
-
 
 It matters little now how much I thought of my living mother who had
 told me evermore to consider her dead. I could not venture to
@@ -27461,14 +26996,6 @@ could I ever hope to be forgetful enough of myself, devoted enough to
 him, and useful enough to others, to show him how I blessed and
 honoured him.
 
-
-
-
-CHAPTER XLIV
-
-The Letter and the Answer
-
-
 My guardian called me into his room next morning, and then I told him
 what had been left untold on the previous night. There was nothing to
 be done, he said, but to keep the secret and to avoid another such
@@ -27793,14 +27320,6 @@ I put my two arms round his neck and kissed him, and he said was this
 the mistress of Bleak House, and I said yes; and it made no
 difference presently, and we all went out together, and I said
 nothing to my precious pet about it.
-
-
-
-
-CHAPTER XLV
-
-In Trust
-
 
 One morning when I had done jingling about with my baskets of keys,
 as my beauty and I were walking round and round the garden I happened
@@ -28365,14 +27884,6 @@ for me. I was glad to see it. I felt for my old self as the dead may
 feel if they ever revisit these scenes. I was glad to be tenderly
 remembered, to be gently pitied, not to be quite forgotten.
 
-
-
-
-CHAPTER XLVI
-
-Stop Him!
-
-
 Darkness rests upon Tom-All-Alone's. Dilating and dilating since the
 sun went down last night, it has gradually swelled until it fills
 every void in the place. For a time there were some dungeon lights
@@ -28784,14 +28295,6 @@ farewell to her, and takes his creeping way along after Allan
 Woodcourt, close to the houses on the opposite side of the street. In
 this order, the two come up out of Tom-all-Alone's into the broad
 rays of the sunlight and the purer air.
-
-
-
-
-CHAPTER XLVII
-
-Jo's Will
-
 
 As Allan Woodcourt and Jo proceed along the streets where the high
 church spires and the distances are so near and clear in the morning
@@ -29461,14 +28964,6 @@ Dead, your Majesty. Dead, my lords and gentlemen. Dead, right
 reverends and wrong reverends of every order. Dead, men and women,
 born with heavenly compassion in your hearts. And dying thus around
 us every day.
-
-
-
-
-CHAPTER XLVIII
-
-Closing In
-
 
 The place in Lincolnshire has shut its many eyes again, and the house
 in town is awake. In Lincolnshire the Dedlocks of the past doze in
@@ -30191,14 +29686,6 @@ for evermore, and the Roman pointed at the murderous hand uplifted
 against his life, and pointed helplessly at him, from night to
 morning, lying face downward on the floor, shot through the heart.
 
-
-
-
-CHAPTER XLIX
-
-Dutiful Friendship
-
-
 A great annual occasion has come round in the establishment of Mr.
 Matthew Bagnet, otherwise Lignum Vitae, ex-artilleryman and present
 bassoon-player. An occasion of feasting and festival. The celebration
@@ -30819,14 +30306,6 @@ conducts his prize into the streets, the trooper marching on as
 steadily as usual, though with his head less erect, and Mr. Bucket
 steering him with his elbow over the crossings and up the turnings.
 
-
-
-
-CHAPTER L
-
-Esther's Narrative
-
-
 It happened that when I came home from Deal I found a note from Caddy
 Jellyby (as we always continued to call her), informing me that her
 health, which had been for some time very delicate, was worse and
@@ -31251,14 +30730,6 @@ to put my dear girl right and set her mind at peace!
 But I lay down, self-deceived, in that belief. And I awoke in it next
 day to find that there was still the same shade between me and my
 darling.
-
-
-
-
-CHAPTER LI
-
-Enlightened
-
 
 When Mr. Woodcourt arrived in London, he went, that very same day, to
 Mr. Vholes's in Symond's Inn. For he never once, from the moment when
@@ -31761,14 +31232,6 @@ House is thinning fast, O little woman!"
 I was sorry presently that this was all we said about that. I was
 rather disappointed. I feared I might not quite have been all I had
 meant to be since the letter and the answer.
-
-
-
-
-CHAPTER LII
-
-Obstinacy
-
 
 But one other day had intervened when, early in the morning as we
 were going to breakfast, Mr. Woodcourt came in haste with the
@@ -32274,14 +31737,6 @@ guardian, "and it is impossible to say more for her."
 looking at us over his shoulder as he went his way also. "And there's
 not such another. But I never own to it before her. Discipline must
 be maintained."
-
-
-
-
-CHAPTER LIII
-
-The Track
-
 
 Mr. Bucket and his fat forefinger are much in consultation together
 under existing circumstances. When Mr. Bucket has a matter of this
@@ -32814,14 +32269,6 @@ acknowledgment of his agreeable conversation, and will he--this is
 all he asks--will he, when he has a leisure half-hour, think of
 bestowing it on that Royal Academy sculptor, for the advantage of
 both parties?
-
-
-
-
-CHAPTER LIV
-
-Springing a Mine
-
 
 Refreshed by sleep, Mr. Bucket rises betimes in the morning and
 prepares for a field-day. Smartened up by the aid of a clean shirt
@@ -33758,14 +33205,6 @@ suffering, he can yet pronounce her name with something like
 distinctness in the midst of those intrusive sounds, and in a tone of
 mourning and compassion rather than reproach.
 
-
-
-
-CHAPTER LV
-
-Flight
-
-
 Inspector Bucket of the Detective has not yet struck his great blow,
 as just now chronicled, but is yet refreshing himself with sleep
 preparatory to his field-day, when through the night and along the
@@ -34446,14 +33885,6 @@ She veils and dresses quickly, leaves all her jewels and her money,
 listens, goes downstairs at a moment when the hall is empty, opens
 and shuts the great door, flutters away in the shrill frosty wind.
 
-
-
-
-CHAPTER LVI
-
-Pursuit
-
-
 Impassive, as behoves its high breeding, the Dedlock town house
 stares at the other houses in the street of dismal grandeur and gives
 no outward sign of anything going wrong within. Carriages rattle,
@@ -34801,14 +34232,6 @@ driven by the wind, and cast out, it would seem, from all
 companionship. It is the figure of a woman, too; but it is miserably
 dressed, and no such clothes ever came through the hall and out at
 the great door of the Dedlock mansion.
-
-
-
-
-CHAPTER LVII
-
-Esther's Narrative
-
 
 I had gone to bed and fallen asleep when my guardian knocked at the
 door of my room and begged me to get up directly. On my hurrying to
@@ -35598,14 +35021,6 @@ We were again upon the melancholy road by which we had come, tearing
 up the miry sleet and thawing snow as if they were torn up by a
 waterwheel.
 
-
-
-
-CHAPTER LVIII
-
-A Wintry Day and Night
-
-
 Still impassive, as behoves its breeding, the Dedlock town house
 carries itself as usual towards the street of dismal grandeur. There
 are powdered heads from time to time in the little windows of the
@@ -36225,14 +35640,6 @@ and vague, it sends a warning streak before it of a deathlike hue, as
 if it cried out, "Look what I am bringing you who watch there! Who
 will tell him!"
 
-
-
-
-CHAPTER LIX
-
-Esther's Narrative
-
-
 It was three o'clock in the morning when the houses outside London
 did at last begin to exclude the country and to close us in with
 streets. We had made our way along roads in a far worse condition
@@ -36821,14 +36228,6 @@ have a higher right than ours."
 I passed on to the gate and stooped down. I lifted the heavy head,
 put the long dank hair aside, and turned the face. And it was my
 mother, cold and dead.
-
-
-
-
-CHAPTER LX
-
-Perspective
-
 
 I proceed to other passages of my narrative. From the goodness of all
 about me I derived such consolation as I can never think of unmoved.
@@ -37423,14 +36822,6 @@ look at Richard."
 I tried to cheer my darling, and asked her what it was. Sobbing and
 weeping, she replied, "That he may not live to see his child."
 
-
-
-
-CHAPTER LXI
-
-A Discovery
-
-
 The days when I frequented that miserable corner which my dear girl
 brightened can never fade in my remembrance. I never see it, and I
 never wish to see it now; I have been there only once since, but in
@@ -37893,14 +37284,6 @@ away. It was not too late to hear them, for it was not too late to be
 animated by them to be good, true, grateful, and contented. How easy
 my path, how much easier than his!
 
-
-
-
-CHAPTER LXII
-
-Another Discovery
-
-
 I had not the courage to see any one that night. I had not even the
 courage to see myself, for I was afraid that my tears might a little
 reproach me. I went up to my room in the dark, and prayed in the
@@ -38331,14 +37714,6 @@ He said this at the stair-head, gently moving his right hand as if it
 were a silver trowel with which to spread the cement of his words on
 the structure of the system and consolidate it for a thousand ages.
 
-
-
-
-CHAPTER LXIII
-
-Steel and Iron
-
-
 George's Shooting Gallery is to let, and the stock is sold off, and
 George himself is at Chesney Wold attending on Sir Leicester in his
 rides and riding very near his bridle-rein because of the uncertain
@@ -38696,14 +38071,6 @@ fires, and the trooper to the green country. Early in the afternoon
 the subdued sound of his heavy military trot is heard on the turf in
 the avenue as he rides on with imaginary clank and jingle of
 accoutrements under the old elm-trees.
-
-
-
-
-CHAPTER LXIV
-
-Esther's Narrative
-
 
 Soon after I had that conversation with my guardian, he put a sealed
 paper in my hand one morning and said, "This is for next month, my
@@ -39181,14 +38548,6 @@ time her figure got a stair lower, and insisting that we should
 immediately go and find somebody who was good enough for us, and
 above all things that we should get out.
 
-
-
-
-CHAPTER LXV
-
-Beginning the World
-
-
 The term had commenced, and my guardian found an intimation from Mr.
 Kenge that the cause would come on in two days. As I had sufficient
 hopes of the will to be in a flutter about it, Allan and I agreed to
@@ -39523,14 +38882,6 @@ this! The world that sets this right.
 When all was still, at a late hour, poor crazed Miss Flite came
 weeping to me and told me she had given her birds their liberty.
 
-
-
-
-CHAPTER LXVI
-
-Down in Lincolnshire
-
-
 There is a hush upon Chesney Wold in these altered days, as there is
 upon a portion of the family history. The story goes that Sir
 Leicester paid some who could have spoken out to hold their peace;
@@ -39693,14 +39044,6 @@ no visitors to be the souls of pale cold shapes of rooms, no stir of
 life about it--passion and pride, even to the stranger's eye, have
 died away from the place in Lincolnshire and yielded it to dull
 repose.
-
-
-
-
-CHAPTER LXVII
-
-The Close of Esther's Narrative
-
 
 Full seven happy years I have been the mistress of Bleak House. The
 few words that I have to add to what I have written are soon penned;
@@ -39870,365 +39213,3 @@ very beautiful, and that my husband is very handsome, and that my
 guardian has the brightest and most benevolent face that ever was
 seen, and that they can very well do without much beauty in me--even
 supposing--."
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK BLEAK HOUSE***
-
-
-******* This file should be named 1023.txt or 1023.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/1/0/2/1023
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://www.gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://www.gutenberg.org/about/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://www.gutenberg.org/fundraising/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:
-http://www.gutenberg.org/fundraising/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
