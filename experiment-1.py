@@ -38,7 +38,9 @@ not_stop_words.orderBy('count', ascending=False).show(3)
 not_stop_words.orderBy('count', ascending=True).show(3)
 
 # What's the max, min number of times a word appears? Average?
-not_stop_words.agg({'count': 'max', 'count': 'min', 'count': 'avg'}).show()
+not_stop_words.agg({'count': 'max'}).show()
+not_stop_words.agg({'count': 'min'}).show()
+not_stop_words.agg({'count': 'avg'}).show()
 
 # Get the 3 stop words that appear most frequently
 are_stop_words.orderBy('count', ascending=False).show(3)
