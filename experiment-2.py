@@ -31,13 +31,20 @@ df = spark.read.text("./words.txt")
 # Words that do not start with 'a'
 df.select('value').filter(~df.value.like('a%')).show()
 
+# Words that *do* start with 'a'
+df.select('value').filter(df.value.like('a%')).show()
+
 # Words that contain 'ab'
 df.select('value').filter(df.value.like('%ab%')).show()
 
 # Words that contain 'c'
 df.select('value').filter(df.value.like('%c%')).show()
 
-# TODO: More character analysis
+# Words that contain 'f'
+df.select('value').filter(df.value.like('%f%')).show()
+
+# Words that end in 'z'
+df.select('value').filter(df.value.like('%z')).show()
 
 end = time.time() - start
 
