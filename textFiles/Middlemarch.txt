@@ -1,157 +1,3 @@
-The Project Gutenberg eBook of Middlemarch, by George Eliot
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: Middlemarch
-
-Author: George Eliot
-
-Release Date: July, 1994 [eBook #145]
-[Most recently updated: January 18, 2021]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK MIDDLEMARCH ***
-
-cover
-
-
-
-
-Middlemarch
-
-George Eliot
-
-New York and Boston
-H. M. Caldwell Company Publishers
-
-To my dear Husband, George Henry Lewes,
-in this nineteenth year of our blessed union.
-
-
-Contents
-
- PRELUDE.
-
- BOOK I. MISS BROOKE.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
-
- BOOK II. OLD AND YOUNG.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
- CHAPTER XIX.
- CHAPTER XX.
- CHAPTER XXI.
- CHAPTER XXII.
-
- BOOK III. WAITING FOR DEATH.
- CHAPTER XXIII.
- CHAPTER XXIV.
- CHAPTER XXV.
- CHAPTER XXVI.
- CHAPTER XXVII.
- CHAPTER XXVIII.
- CHAPTER XXIX.
- CHAPTER XXX.
- CHAPTER XXXI.
- CHAPTER XXXII.
-
- BOOK IV. THREE LOVE PROBLEMS.
- CHAPTER XXXIII.
- CHAPTER XXXIV.
- CHAPTER XXXV.
- CHAPTER XXXVI.
- CHAPTER XXXVII.
- CHAPTER XXXVIII.
- CHAPTER XXXIX.
- CHAPTER XL.
- CHAPTER XLI.
- CHAPTER XLII.
-
- BOOK V. THE DEAD HAND.
- CHAPTER XLIII.
- CHAPTER XLIV.
- CHAPTER XLV.
- CHAPTER XLVI.
- CHAPTER XLVII.
- CHAPTER XLVIII.
- CHAPTER XLIX.
- CHAPTER L.
- CHAPTER LI.
- CHAPTER LII.
-
- BOOK VI. THE WIDOW AND THE WIFE.
- CHAPTER LIII.
- CHAPTER LIV.
- CHAPTER LV.
- CHAPTER LVI.
- CHAPTER LVII.
- CHAPTER LVIII.
- CHAPTER LIX.
- CHAPTER LX.
- CHAPTER LXI.
- CHAPTER LXII.
-
- BOOK VII. TWO TEMPTATIONS.
- CHAPTER LXIII.
- CHAPTER LXIV.
- CHAPTER LXV.
- CHAPTER LXVI.
- CHAPTER LXVII.
- CHAPTER LXVIII.
- CHAPTER LXIX.
- CHAPTER LXX.
- CHAPTER LXXI.
-
- BOOK VIII. SUNSET AND SUNRISE.
- CHAPTER LXXII.
- CHAPTER LXXIII.
- CHAPTER LXXIV.
- CHAPTER LXXV.
- CHAPTER LXXVI.
- CHAPTER LXXVII.
- CHAPTER LXXVIII.
- CHAPTER LXXIX.
- CHAPTER LXXX.
- CHAPTER LXXXI.
- CHAPTER LXXXII.
- CHAPTER LXXXIII.
- CHAPTER LXXXIV.
- CHAPTER LXXXV.
- CHAPTER LXXXVI.
-
- FINALE.
-
-
-
-
-PRELUDE.
-
-
 Who that cares much to know the history of man, and how the mysterious
 mixture behaves under the varying experiments of Time, has not dwelt,
 at least briefly, on the life of Saint Theresa, has not smiled with
@@ -199,17 +45,6 @@ there is born a Saint Theresa, foundress of nothing, whose loving
 heart-beats and sobs after an unattained goodness tremble off and are
 dispersed among hindrances, instead of centring in some
 long-recognizable deed.
-
-
-
-
-BOOK I.
-MISS BROOKE.
-
-
-
-
-CHAPTER I.
 
 Since I can do no good because a woman,
 Reach constantly at something that is near it.
@@ -560,11 +395,6 @@ attitude of Celia’s mind towards her elder sister. The younger had
 always worn a yoke; but is there any yoked creature without its private
 opinions?
 
-
-
-
-CHAPTER II.
-
 “‘Dime; no ves aquel caballero que hacia nosotros viene sobre un
 caballo rucio rodado que trae puesto en la cabeza un yelmo de oro?’ ‘Lo
 que veo y columbro,’ respondio Sancho, ‘no es sino un hombre sobre un
@@ -897,11 +727,6 @@ elder sister. He felt that he had chosen the one who was in all
 respects the superior; and a man naturally likes to look forward to
 having the best. He would be the very Mawworm of bachelors who
 pretended not to expect it.
-
-
-
-
-CHAPTER III.
 
 “Say, goddess, what ensued, when Raphael,
 The affable archangel . . .
@@ -1335,11 +1160,6 @@ with conscientious questionings whether she were not exalting these
 poor doings above measure and contemplating them with that
 self-satisfaction which was the last doom of ignorance and folly.
 
-
-
-
-CHAPTER IV.
-
 1_st Gent_. Our deeds are fetters that we forge ourselves.
 
 2_d Gent._ Ay, truly: but I think it is the world
@@ -1652,11 +1472,6 @@ pretend to judge what sort of marriage would turn out well for a young
 girl who preferred Casaubon to Chettam. In short, woman was a problem
 which, since Mr. Brooke’s mind felt blank before it, could be hardly
 less complicated than the revolutions of an irregular solid.
-
-
-
-
-CHAPTER V.
 
 “Hard students are commonly troubled with gowts, catarrhs, rheums,
 cachexia, bradypepsia, bad eyes, stone, and collick, crudities,
@@ -2030,11 +1845,6 @@ Mr. Casaubon’s house was ready. It was not a parsonage, but a
 considerable mansion, with much land attached to it. The parsonage was
 inhabited by the curate, who did all the duty except preaching the
 morning sermon.
-
-
-
-
-CHAPTER VI.
 
 My lady’s tongue is like the meadow blades,
 That cut you stroking them with idle hand.
@@ -2500,11 +2310,6 @@ about the lips, and in answer to inquiries say, “Oh, nothing!” Pride
 helps us; and pride is not a bad thing when it only urges us to hide
 our own hurts—not to hurt others.
 
-
-
-
-CHAPTER VII.
-
 “Piacer e popone
 Vuol la sua stagione.”
 —_Italian Proverb_.
@@ -2668,11 +2473,6 @@ have made any great difference. To think with pleasure of his niece’s
 husband having a large ecclesiastical income was one thing—to make a
 Liberal speech was another thing; and it is a narrow mind which cannot
 look at a subject from various points of view.
-
-
-
-
-CHAPTER VIII.
 
 “Oh, rescue her! I am her brother now,
 And you her father. Every gentle maid
@@ -2899,11 +2699,6 @@ unconstrained and without irritation towards him now, and he was
 gradually discovering the delight there is in frank kindness and
 companionship between a man and a woman who have no passion to hide or
 confess.
-
-
-
-
-CHAPTER IX.
 
 1_st Gent_. An ancient land in ancient oracles
     Is called “law-thirsty”: all the struggle there
@@ -3340,11 +3135,6 @@ together, taking off their wrappings.
 “Yes; when people don’t do and say just what you like.” Celia had
 become less afraid of “saying things” to Dorothea since this
 engagement: cleverness seemed to her more pitiable than ever.
-
-
-
-
-CHAPTER X.
 
 “He had catched a great cold, had he had no other clothes to wear than
 the skin of a bear not yet killed.”—FULLER.
@@ -3800,11 +3590,6 @@ Miss Brooke, however, was not again seen by either of these gentlemen
 under her maiden name. Not long after that dinner-party she had become
 Mrs. Casaubon, and was on her way to Rome.
 
-
-
-
-CHAPTER XI.
-
 But deeds and language such as men do use,
 And persons such as comedy would choose,
 When she would show an image of the times,
@@ -4226,15 +4011,9 @@ So Fred was gratified with nearly an hour’s practice of “Ar hyd y nos,”
 the Flute;” a wheezy performance, into which he threw much ambition and
 an irrepressible hopefulness.
 
-
-
-
-CHAPTER XII.
-
 He had more tow on his distaffe
 Than Gerveis knew.
 —CHAUCER.
-
 
 The ride to Stone Court, which Fred and Rosamond took the next morning,
 lay through a pretty bit of midland landscape, almost all meadows and
@@ -4989,17 +4768,6 @@ Before reaching home, Fred concluded that he would tell the whole
 affair as simply as possible to his father, who might perhaps take on
 himself the unpleasant business of speaking to Bulstrode.
 
-
-
-
-BOOK II.
-OLD AND YOUNG.
-
-
-
-
-CHAPTER XIII.
-
 1_st Gent_. How class your man?—as better than the most,
     Or, seeming better, worse beneath that cloak?
     As saint or knave, pilgrim or hypocrite?
@@ -5373,11 +5141,6 @@ I shall probably send you a letter.”
 
 “Very well. As soon as you can, please. I hope it will all be settled
 before I see you to-morrow.”
-
-
-
-
-CHAPTER XIV.
 
 “Follows here the strict receipt
 For that sauce to dainty meat,
@@ -5785,11 +5548,6 @@ particularly anxious to take some security against his own liability to
 spend the hundred pounds. For the creditor to whom he owed a hundred
 and sixty held a firmer security in the shape of a bill signed by
 Mary’s father.
-
-
-
-
-CHAPTER XV.
 
 “Black eyes you have left, you say,
     Blue eyes fail to draw you;
@@ -6294,11 +6052,6 @@ acquaintance might be wrought into their purposes, contented with very
 vague knowledge as to the way in which life had been shaping him for
 that instrumentality. Middlemarch, in fact, counted on swallowing
 Lydgate and assimilating him very comfortably.
-
-
-
-
-CHAPTER XVI.
 
 “All that in woman is adored
     In thy fair self I find—
@@ -6834,11 +6587,6 @@ wishes for Rosamond—that she might show a more serious turn of mind,
 and that she might meet with a husband whose wealth corresponded to her
 habits.
 
-
-
-
-CHAPTER XVII.
-
 “The clerkly person smiled and said
 Promise was a pretty maid,
 But being poor she died unwed.”
@@ -7198,11 +6946,6 @@ you that if you vote for your arsenic-man, you are not to cut me in
 consequence. I can’t spare you. You are a sort of circumnavigator come
 to settle among us, and will keep up my belief in the antipodes. Now
 tell me all about them in Paris.”
-
-
-
-
-CHAPTER XVIII.
 
 “Oh, sir, the loftiest hopes on earth
 Draw lots with meaner hopes: heroic breasts,
@@ -7643,11 +7386,6 @@ which we rather hastily arrive at as an inference from our own failure.
 Lydgate thought that there was a pitiable infirmity of will in Mr.
 Farebrother.
 
-
-
-
-CHAPTER XIX.
-
 “L’ altra vedete ch’ha fatto alla guancia
 Della sua palma, sospirando, letto.”
 —_Purgatorio_, vii.
@@ -7820,11 +7558,6 @@ had happened to him with regard to her. There are characters which are
 continually creating collisions and nodes for themselves in dramas
 which nobody is prepared to act with them. Their susceptibilities will
 clash against objects that remain innocently quiet.
-
-
-
-
-CHAPTER XX.
 
 “A child forsaken, waking suddenly,
 Whose gaze afeard on all things round doth rove,
@@ -8257,11 +7990,6 @@ forward of the whole consciousness towards the fullest truth, the least
 partial good. There was clearly something better than anger and
 despondency.
 
-
-
-
-CHAPTER XXI.
-
 “Hire facounde eke full womanly and plain,
 No contrefeted termes had she
 To semen wise.”
@@ -8584,11 +8312,6 @@ no longer reflection but feeling—an idea wrought back to the directness
 of sense, like the solidity of objects—that he had an equivalent centre
 of self, whence the lights and shadows must always fall with a certain
 difference.
-
-
-
-
-CHAPTER XXII.
 
 “Nous câusames longtemps; elle était simple et bonne.
 Ne sachant pas le mal, elle faisait le bien;
@@ -9185,17 +8908,6 @@ discuss his future course, which it is not ours to determine beyond the
 limits which I have sufficiently indicated.” Dorothea did not mention
 Will again.
 
-
-
-
-BOOK III.
-WAITING FOR DEATH.
-
-
-
-
-CHAPTER XXIII.
-
 “Your horses of the Sun,” he said,
     “And first-rate whip Apollo!
 Whate’er they be, I’ll eat my head,
@@ -9637,11 +9349,6 @@ But he felt a little worried and wearied, perhaps with mental debate,
 and without waiting for the further gayeties of the horse-fair, he set
 out alone on his fourteen miles’ journey, meaning to take it very
 quietly and keep his horse fresh.
-
-
-
-
-CHAPTER XXIV.
 
 “The offender’s sorrow brings but small relief
 To him who wears the strong offence’s cross.”
@@ -10115,11 +9822,6 @@ because he did his work well, charged very little, and often declined
 to charge at all. It is no wonder, then, that the Garths were poor, and
 “lived in a small way.” However, they did not mind it.
 
-
-
-
-CHAPTER XXV.
-
 “Love seeketh not itself to please,
     Nor for itself hath any care
 But for another gives its ease
@@ -10405,11 +10107,6 @@ rejoinder, disagreeable enough to be always apropos. “If Fred Vincy
 comes to-morrow, now, don’t you keep him chattering: let him come up to
 me.”
 
-
-
-
-CHAPTER XXVI.
-
 He beats me and I rail at him: O worthy satisfaction! would it were
 otherwise—that I could beat him while he railed at me.—_Troilus and
 Cressida_.
@@ -10598,14 +10295,8 @@ heard of Bulstrode before he came here.”
 the old lady, with an air of precision.—“But as to Bulstrode—the report
 may be true of some other son.”
 
-
-
-
-CHAPTER XXVII.
-
 Let the high Muse chant loves Olympian:
 We are but mortals, and must sing of man.
-
 
 An eminent philosopher among my friends, who can dignify even your ugly
 furniture by lifting it into the serene light of science, has shown me
@@ -10944,11 +10635,6 @@ where Peacock had never attended; and it was the second instance of
 this kind. The servant was Sir James Chettam’s, and the house was
 Lowick Manor.
 
-
-
-
-CHAPTER XXVIII.
-
 1_st Gent_. All times are good to seek your wedded home
     Bringing a mutual delight.
 
@@ -11158,11 +10844,6 @@ when he comes. Shall you be glad to see him?”
 “Only I was afraid you would be getting so learned,” said Celia,
 regarding Mr. Casaubon’s learning as a kind of damp which might in due
 time saturate a neighboring body.
-
-
-
-
-CHAPTER XXIX.
 
 I found that no genius in another could please me. My unfortunate
 paradoxes had entirely dried up that source of comfort.—GOLDSMITH.
@@ -11469,11 +11150,6 @@ death had made sweet odors—floating memories that clung with a
 consecrating effect to Dorothea. He could remain her brotherly friend,
 interpreting her actions with generous trustfulness.
 
-
-
-
-CHAPTER XXX.
-
 Qui veut délasser hors de propos, lasse.—PASCAL.
 
 
@@ -11739,11 +11415,6 @@ table with him, at least for a time.
 But he went away without telling Dorothea what he had put into the
 letter, for she was engaged with her husband, and—in fact, these things
 were of no importance to her.
-
-
-
-
-CHAPTER XXXI.
 
 How will you know the pitch of that great bell
 Too large for you to stir? Let but a flute
@@ -12155,11 +11826,6 @@ Rosamond’s engagement was asked for, he gave it with astonishing
 facility, passing at once to general remarks on the desirableness of
 matrimony for young men and maidens, and apparently deducing from the
 whole the appropriateness of a little more punch.
-
-
-
-
-CHAPTER XXXII.
 
 They’ll take suggestion as a cat laps milk.
 —SHAKESPEARE: _Tempest_.
@@ -12615,11 +12281,6 @@ to give drops.”
 “Auctioneers talk wild,” said Solomon. “Not but what Trumbull has made
 money.”
 
-
-
-
-CHAPTER XXXIII.
-
 “Close up his eyes and draw the curtain close;
 And let us all to meditation.”
 —2 _Henry VI_.
@@ -12847,17 +12508,6 @@ The next moment she ran to the bell and rang it energetically. In a
 very little while there was no longer any doubt that Peter Featherstone
 was dead, with his right hand clasping the keys, and his left hand
 lying on the heap of notes and gold.
-
-
-
-
-BOOK IV.
-THREE LOVE PROBLEMS.
-
-
-
-
-CHAPTER XXXIV.
 
 “1_st Gent_. Such men as this are feathers, chips, and straws,
     Carry no weight, no force.
@@ -13174,11 +12824,6 @@ with, you know. But you are at home in that, Casaubon. And your
 painter’s flesh is good—solidity, transparency, everything of that
 sort. I went into that a great deal at one time. However, I’ll go and
 fetch Ladislaw.”
-
-
-
-
-CHAPTER XXXV.
 
 “Non, je ne comprends pas de plus charmant plaisir
 Que de voir d’héritiers une troupe affligée
@@ -13612,11 +13257,6 @@ As to any provincial history in which the agents are all of high moral
 rank, that must be of a date long posterior to the first Reform Bill,
 and Peter Featherstone, you perceive, was dead and buried some months
 before Lord Grey came into office.
-
-
-
-
-CHAPTER XXXVI.
 
 ’T is strange to see the humors of these men,
 These great aspiring spirits, that should be wise:
@@ -14247,11 +13887,6 @@ Lydgate relied much on the psychological difference between what for
 the sake of variety I will call goose and gander: especially on the
 innate submissiveness of the goose as beautifully corresponding to the
 strength of the gander.
-
-
-
-
-CHAPTER XXXVII.
 
 Thrice happy she that is so well assured
 Unto herself and settled so in heart
@@ -15104,11 +14739,6 @@ Thus Mr. Casaubon remained proudly, bitterly silent. But he had
 forbidden Will to come to Lowick Manor, and he was mentally preparing
 other measures of frustration.
 
-
-
-
-CHAPTER XXXVIII.
-
 “C’est beaucoup que le jugement des hommes sur les actions humaines;
 tôt ou tard il devient efficace.”—GUIZOT.
 
@@ -15465,11 +15095,6 @@ Cadwallader. “You should have proved to him that he loses money by bad
 management, and then we should all have pulled together. If you put him
 a-horseback on politics, I warn you of the consequences. It was all
 very well to ride on sticks at home and call them ideas.”
-
-
-
-
-CHAPTER XXXIX.
 
 “If, as I have, you also doe,
     Vertue attired in woman see,
@@ -15938,11 +15563,6 @@ the slovenly habits of farming, and the awkwardness of weather, stock
 and crops, at Freeman’s End—so called apparently by way of sarcasm, to
 imply that a man was free to quit it if he chose, but that there was no
 earthly “beyond” open to him.
-
-
-
-
-CHAPTER XL.
 
 Wise in his daily work was he:
     To fruits of diligence,
@@ -16505,11 +16125,6 @@ which he associated with various points of view or states of mind; and
 whenever he had a feeling of awe, he was haunted by a sense of Biblical
 phraseology, though he could hardly have given a strict quotation.
 
-
-
-
-CHAPTER XLI.
-
 By swaggering could I never thrive,
 For the rain it raineth every day.
 —_Twelfth Night_.
@@ -16704,11 +16319,6 @@ entirely successful, resorting at frequent intervals to his flask. The
 paper with which he had wedged it was a letter signed _Nicholas
 Bulstrode_, but Raffles was not likely to disturb it from its present
 useful position.
-
-
-
-
-CHAPTER XLII.
 
 How much, methinks, I could despise this man
 Were I not bound in charity against it!
@@ -17155,17 +16765,6 @@ she felt something like the thankfulness that might well up in us if we
 had narrowly escaped hurting a lamed creature. She put her hand into
 her husband’s, and they went along the broad corridor together.
 
-
-
-
-BOOK V.
-THE DEAD HAND.
-
-
-
-
-CHAPTER XLIII.
-
 “This figure hath high price: ’t was wrought with love
 Ages ago in finest ivory;
 Nought modish in it, pure and noble lines
@@ -17454,11 +17053,6 @@ cannot live like hermits. You are not discontented with me, Tertius?”
 be splendid to our New Hospital: I think she will give us two hundred
 a-year.”
 
-
-
-
-CHAPTER XLIV.
-
 I would not creep along the coast but steer
 Out in mid-sea, by guidance of the stars.
 
@@ -17582,11 +17176,6 @@ had passed between Lydgate and himself. “She knows that I know,” said
 the ever-restless voice within; but that increase of tacit knowledge
 only thrust further off any confidence between them. He distrusted her
 affection; and what loneliness is more lonely than distrust?
-
-
-
-
-CHAPTER XLV.
 
 It is the humor of many heads to extol the days of their forefathers,
 and declaim against the wickedness of times present. Which
@@ -18280,11 +17869,6 @@ miserably.”
 “No, no, not so bad as that,” said Lydgate, giving up remonstrance and
 petting her resignedly.
 
-
-
-
-CHAPTER XLVI.
-
 Pues no podemos haber aquello que queremos, queramos aquello que
 podremos.
 
@@ -18663,11 +18247,6 @@ You hurt me very much when you look so, Tertius.”
 payment of a bill for furniture. But Rosamond was expecting to have a
 baby, and Lydgate wished to save her from any perturbation.
 
-
-
-
-CHAPTER XLVII.
-
 Was never true love loved in vain,
 For truest love is highest gain.
 No art can make it: it must spring
@@ -18887,11 +18466,6 @@ It was impossible for him to follow them, and he could only walk back
 sadly at mid-day along the same road which he had trodden hopefully in
 the morning. The lights were all changed for him both without and
 within.
-
-
-
-
-CHAPTER XLVIII.
 
 Surely the golden hours are turning gray
 And dance no more, and vainly strive to run:
@@ -19266,11 +18840,6 @@ be better. Go and tell him.”
 
 But the silence in her husband’s ear was never more to be broken.
 
-
-
-
-CHAPTER XLIX.
-
 “A task too strong for wizard spells
 This squire had brought about;
 ’T is easy dropping stones in wells,
@@ -19439,11 +19008,6 @@ any day, and electors were to be convinced of the course by which the
 interests of the country would be best served. Mr. Brooke sincerely
 believed that this end could be secured by his own return to
 Parliament: he offered the forces of his mind honestly to the nation.
-
-
-
-
-CHAPTER L.
 
 “This Loller here wol precilen us somewhat.”
 “Nay by my father’s soule! that schal he nat,”
@@ -19843,11 +19407,6 @@ possible how he smiled down at the little old maid. An Italian with
 white mice!—on the contrary, he was a creature who entered into every
 one’s feelings, and could take the pressure of their thought instead of
 urging his own with iron resistance.
-
-
-
-
-CHAPTER LI.
 
 Party is Nature too, and you shall see
 By force of Logic how they both agree:
@@ -20325,11 +19884,6 @@ family have been urging him to get rid of me, and he doesn’t care now
 about my going. I shall stay as long as I like. I shall go of my own
 movements and not because they are afraid of me.”
 
-
-
-
-CHAPTER LII.
-
 “His heart
 The lowliest duties on itself did lay.”
 —WORDSWORTH.
@@ -20743,11 +20297,6 @@ hands trembling in a moment of trouble.
 In three minutes the Vicar was on horseback again, having gone
 magnanimously through a duty much harder than the renunciation of
 whist, or even than the writing of penitential meditations.
-
-
-
-
-CHAPTER LIII.
 
 It is but a shallow haste which concludeth insincerity from what
 outsiders call inconsistency—putting a dead mechanism of “ifs” and
@@ -21248,17 +20797,6 @@ landscape at Stone Court, but not relieving him of the dread that the
 black spot might reappear and become inseparable even from the vision
 of his hearth.
 
-
-
-
-BOOK VI.
-THE WIDOW AND THE WIFE.
-
-
-
-
-CHAPTER LIV.
-
 “Negli occhi porta la mia donna Amore;
 Per che si fa gentil ciò ch’ella mira:
 Ov’ella passa, ogni uom ver lei si gira,
@@ -21737,11 +21275,6 @@ that moment, he was an incorporation of the strongest reasons through
 which Will’s pride became a repellent force, keeping him asunder from
 Dorothea.
 
-
-
-
-CHAPTER LV.
-
 Hath she her faults? I would you had them too.
 They are the fruity must of soundest wine;
 Or say, they are regenerating fire
@@ -21922,11 +21455,6 @@ a young widow’s second marriage as certain and probably near, and to
 smile with meaning if the widow acts accordingly. But if Dorothea did
 choose to espouse her solitude, he felt that the resolution would well
 become her.
-
-
-
-
-CHAPTER LVI.
 
 “How happy is he born and taught
 That serveth not another’s will;
@@ -22722,11 +22250,6 @@ me, I know. Let _his_ family help him. I never did like that marriage.
 But it’s no use talking. Ring the bell for lemons, and don’t look dull
 any more, Lucy. I’ll drive you and Louisa to Riverston to-morrow.”
 
-
-
-
-CHAPTER LVII.
-
 They numbered scarce eight summers when a name
     Rose on their souls and stirred such motions there
 As thrill the buds and shape their hidden frame
@@ -23135,11 +22658,6 @@ help fleeting visions of another kind—new dignities and an acknowledged
 value of which she had often felt the absence. But these things with
 Fred outside them, Fred forsaken and looking sad for the want of her,
 could never tempt her deliberate thought.
-
-
-
-
-CHAPTER LVIII.
 
 “For there can live no hatred in thine eye,
 Therefore in that I cannot know thy change:
@@ -23886,11 +23404,6 @@ forward with dread to the inevitable future discussions about
 expenditure and the necessity for a complete change in their way of
 living.
 
-
-
-
-CHAPTER LIX.
-
 “They said of old the Soul had human shape,
 But smaller, subtler than the fleshly self,
 So wandered forth for airing when it pleased.
@@ -24014,11 +23527,6 @@ Quallingham, who did not write to her; and that perhaps Tertius when he
 came home would tease her about expenses. She had already secretly
 disobeyed him by asking her father to help them, and he had ended
 decisively by saying, “I am more likely to want help myself.”
-
-
-
-
-CHAPTER LX.
 
 Good phrases are surely, and ever were, very commendable.
 —_Justice Shallow_.
@@ -24423,11 +23931,6 @@ give their suspicions a welcome ground for thinking him unfit to come
 near her. However, let them suspect what they pleased, they would find
 themselves in the wrong. They would find out that the blood in his
 veins was as free from the taint of meanness as theirs.
-
-
-
-
-CHAPTER LXI.
 
 “Inconsistencies,” answered Imlac, “cannot both be right, but imputed
 to man they may both be true.”—_Rasselas_.
@@ -24977,11 +24480,6 @@ Perhaps, through all other hidden thoughts, the one that breathed most
 comfort was, that Will Ladislaw at least was not likely to publish what
 had taken place that evening.
 
-
-
-
-CHAPTER LXII.
-
 He was a squyer of lowe degre,
 That loved the king’s daughter of Hungrie.
 —_Old Romance_.
@@ -25435,16 +24933,6 @@ That evening Will spent with the Lydgates; the next evening he was
 gone.
 
 
-
-
-BOOK VII.
-TWO TEMPTATIONS.
-
-
-
-
-CHAPTER LXIII.
-
 These little things are great to little man.—GOLDSMITH.
 
 
@@ -25762,11 +25250,6 @@ question.
 “What time are you?” said the Vicar, devouring his wounded feeling.
 
 “After eleven,” said Lydgate. And they went into the drawing-room.
-
-
-
-
-CHAPTER LXIV.
 
 1_st Gent_. Where lies the power, there let the blame lie too.
 
@@ -26432,11 +25915,6 @@ about the inclinations and the pockets of men with whom he had been
 proud to have no aims in common—should have fallen not simply to their
 level, but to the level of soliciting them.
 
-
-
-
-CHAPTER LXV.
-
 One of us two must bowen douteless,
 And, sith a man is more reasonable
 Than woman is, ye [men] moste be suffrable.
@@ -26638,11 +26116,6 @@ appeals to his activity on behalf of others. He wished to excuse
 everything in her if he could—but it was inevitable that in that
 excusing mood he should think of her as if she were an animal of
 another and feebler species. Nevertheless she had mastered him.
-
-
-
-
-CHAPTER LXVI.
 
 ’Tis one thing to be tempted, Escalus,
 Another thing to fall.
@@ -27006,11 +26479,6 @@ one little speech. “To think of the part one little woman can play in
 the life of a man, so that to renounce her may be a very good imitation
 of heroism, and to win her may be a discipline!”
 
-
-
-
-CHAPTER LXVII.
-
 Now is there civil war within the soul:
 Resolve is thrust from off the sacred throne
 By clamorous Needs, and Pride the grand-vizier
@@ -27310,11 +26778,6 @@ the advice I have given.”
 “Thank you,” said Lydgate, not quite knowing what he said. “I have
 occupied you too long. Good-day.”
 
-
-
-
-CHAPTER LXVIII.
-
 What suit of grace hath Virtue to put on
 If Vice shall wear as good, and do as well?
 If Wrong, if Craft, if Indiscretion
@@ -27609,11 +27072,6 @@ air?” said Mrs. Garth.
 
 “Well, well,” replied Caleb; “the castle will tumble about nobody’s
 head.”
-
-
-
-
-CHAPTER LXIX.
 
 “If thou hast heard a word, let it die with thee.”
 —_Ecclesiasticus_.
@@ -28019,11 +27477,6 @@ Lydgate said no more, but went out on his rounds. He felt bruised and
 shattered, and there was a dark line under his eyes which Rosamond had
 not seen before. She could not bear to look at him. Tertius had a way
 of taking things which made them a great deal worse for her.
-
-
-
-
-CHAPTER LXX.
 
 “Our deeds still travel with us from afar,
 And what we have been makes us what we are.”
@@ -28529,11 +27982,6 @@ yoke he bore. But Mr. Farebrother, whose hopes entered strongly into
 the same current with Lydgate’s, and who knew nothing about him that
 could now raise a melancholy presentiment, left him with affectionate
 congratulation.
-
-
-
-
-CHAPTER LXXI.
 
 _Clown_. . . . ’Twas in the Bunch of Grapes, where, indeed,
 you have a delight to sit, have you not?
@@ -29176,17 +28624,6 @@ said energetically—
 “You don’t believe that Mr. Lydgate is guilty of anything base? I will
 not believe it. Let us find out the truth and clear him!”
 
-
-
-
-BOOK VIII.
-SUNSET AND SUNRISE.
-
-
-
-
-CHAPTER LXXII.
-
 Full souls are double mirrors, making still
 An endless vista of fair things before,
 Repeating things behind.
@@ -29337,11 +28774,6 @@ laughed and forgot her tears.
 “Well, I mean about babies and those things,” explained Celia. “I
 should not give up to James when I knew he was wrong, as you used to do
 to Mr. Casaubon.”
-
-
-
-
-CHAPTER LXXIII.
 
 Pity the laden one; this wandering woe
 May visit you and me.
@@ -29495,11 +28927,6 @@ drag, and poor Lydgate was in a bad mood for bearing her dumb mastery.
 He had no impulse to tell her the trouble which must soon be common to
 them both. He preferred waiting for the incidental disclosure which
 events must soon bring about.
-
-
-
-
-CHAPTER LXXIV.
 
 “Mercifully grant that we may grow aged together.”
 —BOOK OF TOBIT: _Marriage Prayer_.
@@ -29927,11 +29354,6 @@ which would have expressed their mutual consciousness, as she would
 have shrunk from flakes of fire. She could not say, “How much is only
 slander and false suspicion?” and he did not say, “I am innocent.”
 
-
-
-
-CHAPTER LXXV.
-
 “Le sentiment de la fausseté des plaisirs présents, et l’ignorance de
 la vanité des plaisirs absents causent l’inconstance.”—PASCAL.
 
@@ -30224,11 +29646,6 @@ feeling, with some justification, that he was behaving cruelly. It was
 of no use to say anything to Tertius; but when Will Ladislaw came, she
 was determined to tell him everything. In spite of her general
 reticence, she needed some one who would recognize her wrongs.
-
-
-
-
-CHAPTER LXXVI.
 
 To mercy, pity, peace, and love
     All pray in their distress,
@@ -30619,11 +30036,6 @@ any other name if it did but imply that he granted her request. She
 enclosed a check for a thousand pounds, and determined to take the
 letter with her the next day when she went to see Rosamond.
 
-
-
-
-CHAPTER LXXVII.
-
 “And thus thy fall hath left a kind of blot,
 To mark the full-fraught man and best indued
 With some suspicion.”
@@ -30893,11 +30305,6 @@ But Sir James came in again, ready to accompany Dorothea to the Grange,
 and she finished her expedition well, not swerving in her resolution
 until she descended at her own door.
 
-
-
-
-CHAPTER LXXVIII.
-
 “Would it were yesterday and I i’ the grave,
 With her sweet faith above for monument.”
 
@@ -31063,11 +30470,6 @@ system, which evidently involved some new turning towards himself, was
 due to the excitement of the new impressions which that visit had
 raised.
 
-
-
-
-CHAPTER LXXIX.
-
 “Now, I saw in my dream, that just as they had ended their talk, they
 drew nigh to a very miry slough, that was in the midst of the plain;
 and they, being heedless, did both fall suddenly into the bog. The name
@@ -31157,11 +30559,6 @@ this evening as if the cruelty of his outburst to Rosamond had made an
 obligation for him, and he dreaded the obligation: he dreaded Lydgate’s
 unsuspecting good-will: he dreaded his own distaste for his spoiled
 life, which would leave him in motiveless levity.
-
-
-
-
-CHAPTER LXXX.
 
 Stern lawgiver! yet thou dost wear
 The Godhead’s most benignant grace;
@@ -31412,11 +30809,6 @@ outward help towards calm resolve. For the resolve was not easy.
 Nevertheless at eleven o’clock she was walking towards Middlemarch,
 having made up her mind that she would make as quietly and unnoticeably
 as possible her second attempt to see and save Rosamond.
-
-
-
-
-CHAPTER LXXXI.
 
 Du Erde warst auch diese Nacht beständig,
 Und athmest neu erquickt zu meinen Füssen,
@@ -31816,11 +31208,6 @@ resignation. He had chosen this fragile creature, and had taken the
 burthen of her life upon his arms. He must walk as he could, carrying
 that burthen pitifully.
 
-
-
-
-CHAPTER LXXXII.
-
 “My grief lies onward and my joy behind.”
 —SHAKESPEARE: _Sonnets_.
 
@@ -31963,11 +31350,6 @@ vision, all their thought of each other, had been as in a world apart,
 where the sunshine fell on tall white lilies, where no evil lurked, and
 no other soul entered. But now—would Dorothea meet him in that world
 again?
-
-
-
-
-CHAPTER LXXXIII.
 
 “And now good-morrow to our waking souls
 Which watch not one another out of fear;
@@ -32275,11 +31657,6 @@ speaking, her large tear-filled eyes looking at his very simply, while
 she said in a sobbing childlike way, “We could live quite well on my
 own fortune—it is too much—seven hundred a-year—I want so little—no new
 clothes—and I will learn what everything costs.”
-
-
-
-
-CHAPTER LXXXIV.
 
 “Though it be songe of old and yonge,
     That I sholde be to blame,
@@ -32692,11 +32069,6 @@ knew how it came about, it would not seem wonderful to you.”
 
 “No, dear, you would have to feel with me, else you would never know.”
 
-
-
-
-CHAPTER LXXXV.
-
 “Then went the jury out whose names were Mr. Blindman, Mr. No-good, Mr.
 Malice, Mr. Love-lust, Mr. Live-loose, Mr. Heady, Mr. High-mind, Mr.
 Enmity, Mr. Liar, Mr. Cruelty, Mr. Hate-light, Mr. Implacable, who
@@ -32822,11 +32194,6 @@ put into your hands a paper which he himself drew up, stating
 conditions; and you can propose his renewed acceptance of them. I think
 it is not unlikely that he will accept when you propose the thing for
 the sake of your nephew.”
-
-
-
-
-CHAPTER LXXXVI.
 
 “Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là
 l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la
@@ -33304,359 +32671,3 @@ and me as they might have been, is half owing to the number who lived
 faithfully a hidden life, and rest in unvisited tombs.
 
 THE END
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK MIDDLEMARCH ***
-
-***** This file should be named 145-0.txt or 145-0.zip *****
-This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/1/4/145/
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that:
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org
-
-This website includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-
