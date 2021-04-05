@@ -1,6 +1,12 @@
-# https://www.tutorialspoint.com/python_text_processing/python_remove_stopwords.htm
-# https://stackoverflow.com/questions/40287237/pyspark-dataframe-operator-is-not-in
-# https://spark.apache.org/docs/latest/api/python/reference/index.html
+""" Experiment #1: Fun with words
+
+    Perform several spark queries on a large list of words, gathered across 15 books.
+
+    The following resources were helpful when writing this program:
+        * https://www.tutorialspoint.com/python_text_processing/python_remove_stopwords.htm
+        * https://stackoverflow.com/questions/40287237/pyspark-dataframe-operator-is-not-in
+        * https://spark.apache.org/docs/latest/api/python/reference/index.html
+"""
 
 import time
 
@@ -25,38 +31,57 @@ start = time.time()
 stop = list(set(stopwords.words('english')))
 generate_word_file()
 
+query_times = []
+
 df = spark.read.text("./words.txt")
 not_stop_words = df.select('value').filter(~df.value.isin(stop)).groupBy('value').count()
 are_stop_words = df.select('value').filter(df.value.isin(stop)).groupBy('value').count()
 
-# TODO: get times for individual queries
-
-# Get the 3 words that appear most frequently
+print("Query #1: Get the 3 words that appear most frequently")
+query_start = time.time()
 not_stop_words.orderBy('count', ascending=False).show(3)
+query_times.append(time.time() - query_start)
 
-# Get the 3 words that do not appear most frequently
+print("Query #2: Get the 3 words that do not appear most frequently")
+query_start = time.time()
 not_stop_words.orderBy('count', ascending=True).show(3)
+query_times.append(time.time() - query_start)
 
-# What's the max, min number of times a word appears? Average?
+print("Query #3: What is the max, min, average number of times a word appears?")
+query_start = time.time()
 not_stop_words.agg({'count': 'max'}).show()
 not_stop_words.agg({'count': 'min'}).show()
 not_stop_words.agg({'count': 'avg'}).show()
+query_times.append(time.time() - query_start)
 
-# Get the 3 stop words that appear most frequently
+print("Query #4: Get the 3 stop words that appear most frequently")
+query_start = time.time()
 are_stop_words.orderBy('count', ascending=False).show(3)
+query_times.append(time.time() - query_start)
 
-# How many times do the words "grand", "valley", "state", "university" appear?
+print("Query #5: How many times do the words 'grand', 'valley', 'state', 'university' appear?")
+query_start = time.time()
 df.select('value').filter(df.value.isin('grand', 'valley', 'state', 'university')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
 
-# What about the words "how", "now", "brown", "cow"?
+print("Query #6: How many times do the words 'how', 'now', 'brown', 'cow' appear?")
+query_start = time.time()
 df.select('value').filter(df.value.isin('how', 'now', 'brown', 'cow')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
 
-# Do these names appear in any of the texts?
+print("Query #7: Do any of the following names appear? Sam, James, Joe, Chris")
+query_start = time.time()
 df.select('value').filter(df.value.isin('sam', 'james', 'carl', 'joe', 'chris')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
 
 end = time.time() - start
 
 # Cleanup
 spark.stop()
 
-print(f'\nEnd time: {end}\n')
+print("----------------------------")
+for i, query_t in enumerate(query_times, start=1):
+    print(f"Query {i} time: {query_t}s")
+
+print(f'\nProgram run time: {end}s\n')
+print("----------------------------")

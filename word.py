@@ -25,6 +25,8 @@ def generate_word_file():
                 lines = [line.replace("\n", '') for line in f2.readlines()]
                 for line in lines:
                     for word in line.split(' '):
+                        # Avoid splitting hyphenated words like "mother-in-law" by removing special chars from start & end of string.
+                        # Note this also won't remove words that have dashes between them
                         word = word.strip('-\'\";\.,()”“?!_:_—\.’‘').lower()
                         if len(word) > 0:
                             f.write(f'{word}\n')
