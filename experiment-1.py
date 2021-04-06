@@ -27,7 +27,7 @@ spark.conf.set('spark.rapids.sql.enabled', 'true')
 
 start = time.time()
 
-# Get list of words to use
+# Get list of stop words to use & generate data to use
 stop = list(set(stopwords.words('english')))
 generate_word_file()
 
@@ -37,12 +37,12 @@ df = spark.read.text("./words.txt")
 not_stop_words = df.select('value').filter(~df.value.isin(stop)).groupBy('value').count()
 are_stop_words = df.select('value').filter(df.value.isin(stop)).groupBy('value').count()
 
-print("Query #1: Get the 3 words that appear most frequently")
+print("Query #1: Get 3 words that appear most frequently")
 query_start = time.time()
 not_stop_words.orderBy('count', ascending=False).show(3)
 query_times.append(time.time() - query_start)
 
-print("Query #2: Get the 3 words that do not appear most frequently")
+print("Query #2: Get 3 words that do not appear most frequently")
 query_start = time.time()
 not_stop_words.orderBy('count', ascending=True).show(3)
 query_times.append(time.time() - query_start)
@@ -54,7 +54,7 @@ not_stop_words.agg({'count': 'min'}).show()
 not_stop_words.agg({'count': 'avg'}).show()
 query_times.append(time.time() - query_start)
 
-print("Query #4: Get the 3 stop words that appear most frequently")
+print("Query #4: Get 3 stop words that appear most frequently")
 query_start = time.time()
 are_stop_words.orderBy('count', ascending=False).show(3)
 query_times.append(time.time() - query_start)
@@ -72,6 +72,21 @@ query_times.append(time.time() - query_start)
 print("Query #7: Do any of the following names appear? Sam, James, Joe, Chris")
 query_start = time.time()
 df.select('value').filter(df.value.isin('sam', 'james', 'carl', 'joe', 'chris')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
+
+print("Query #8: Do these words appear? 'mother-in-law', 'father-in-law', 'just-in-case'?")
+query_start = time.time()
+df.select('value').filter(df.value.isin('savior', 'glory', 'mother-in-law', 'father-in-law', 'just-in-case')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
+
+print("Query #9: Do these words appear? 'apple', 'orange', 'pear', 'blueberry', 'grape', 'cherry'?")
+query_start = time.time()
+df.select('value').filter(df.value.isin('apple', 'orange', 'pear', 'blueberry', 'grape', 'cherry')).groupBy('value').count().orderBy('count', ascending=False).show()
+query_times.append(time.time() - query_start)
+
+print("Query #10: How many times do the words 'cat', 'dog', 'bear', 'cow', 'lizard', 'hamster', 'peacock' appear?")
+query_start = time.time()
+df.select('value').filter(df.value.isin('cat', 'dog', 'bear', 'cow', 'lizard', 'hamster', 'peacock')).groupBy('value').count().orderBy('count', ascending=False).show()
 query_times.append(time.time() - query_start)
 
 end = time.time() - start

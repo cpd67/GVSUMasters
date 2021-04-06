@@ -1,4 +1,10 @@
+import re
+
+# https://regexr.com/
 # https://stackoverflow.com/questions/3277503/how-to-read-a-file-line-by-line-into-a-list
+# https://docs.python.org/3/library/re.html#re-objects
+regex = re.compile('\W')
+
 def generate_word_file():
     """ Generate a large file containing words across 15 books. """
     text_files = [
@@ -24,9 +30,9 @@ def generate_word_file():
             with open(file, 'r') as f2:
                 lines = [line.replace("\n", '') for line in f2.readlines()]
                 for line in lines:
+                    line = regex.sub(' ', line)
                     for word in line.split(' '):
-                        # Avoid splitting hyphenated words like "mother-in-law" by removing special chars from start & end of string.
-                        # Note this also won't remove words that have dashes between them
+                        # Do extra cleanup of words
                         word = word.strip('-\'\";\.,()”“?!_:_—\.’‘').lower()
                         if len(word) > 0:
                             f.write(f'{word}\n')
