@@ -25,13 +25,14 @@ spark.sparkContext.setLogLevel("ERROR")
 # Turn on spark-rapids
 spark.conf.set('spark.rapids.sql.enabled', 'true')
 
-start = time.time()
 
 # Get list of stop words to use & generate data to use
 stop = list(set(stopwords.words('english')))
 generate_word_file()
 
 query_times = []
+
+start = time.time()
 
 df = spark.read.text("./words.txt")
 not_stop_words = df.select('value').filter(~df.value.isin(stop)).groupBy('value').count()

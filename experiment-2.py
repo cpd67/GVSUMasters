@@ -23,13 +23,14 @@ spark.sparkContext.setLogLevel("ERROR")
 # Turn on spark-rapids
 spark.conf.set('spark.rapids.sql.enabled', 'true')
 
-start = time.time()
-
 # Get list of words to use & generate data to use
 stop = list(set(stopwords.words('english')))
 generate_word_file()
 
 query_times = []
+
+start = time.time()
+
 df = spark.read.text("./words.txt")
 
 print("Query #1: words that do not start with 'a'")
