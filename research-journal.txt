@@ -62,13 +62,38 @@ TODO:
   * Graph Results & Write up conclusions.
 
 
-Powerpoint slides:
+Powerpoint slides for lightning talk
+Abstract
 1). What is Spark?
 2). What is spark-rapids?
 3). What was our goal?
 4). How did we achieve that goal?
+  4a). Experiments
 5). Results
+  5a). Show charts, discuss
+  5b). Running experiments in isolation
+  5c). Show charts of that, discuss
 6). Conclusions
+
+The write-up will look similar, but include additional sections:
+Abstract
+1). What is Spark?
+2). What is spark-rapids?
+3). What was our goal?
+4). How did we achieve that goal?
+  4a). Hardware
+  4b). Installing spark & spark-rapids
+  4c). Experiments
+5). Results
+  5a). Show charts, discuss
+  5b). Running experiments in isolation
+  5c). Show charts of that, discuss
+6). Conclusions
+7). Further Work
+8). Appendix
+  8a). Experiment code
+  8b). Output of running main.py (main-isolation.py is similar, but shows only one of the experiments running)
+9). References
 
 * We're using nltk, and their website said to cite them as follows:
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
