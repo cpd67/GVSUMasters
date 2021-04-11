@@ -1,0 +1,133 @@
+1). We installed cudF using conda. You'll need to activate the environment before running #2's command:
+conda activate rapids-0.17
+
+2). Export the following vars:
+export SPARK_RAPIDS_DIR=/opt/sparkRapidsPlugin
+export SPARK_CUDF_JAR=${SPARK_RAPIDS_DIR}/cudf-0.17-cuda11.jar
+export SPARK_RAPIDS_PLUGIN_JAR=${SPARK_RAPIDS_DIR}/rapids-4-spark_2.12-0.3.0.jar
+
+3). Run this: $SPARK_HOME/bin/spark-submit --conf spark.plugins=com.nvidia.spark.SQLPlugin  --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR} experiment-1.py
+
+To run a python script, do:
+$SPARK_HOME/bin/spark-submit simple_app.py --master local --num-executors 1 --conf spark.executor.cores=1 --conf spark.rapids.sql.concurrentGpuTasks=1  --driver-memory 10g  --conf spark.rapids.memory.pinnedPool.size=2G  --conf spark.locality.wait=0s  --conf spark.sql.files.maxPartitionBytes=512m  --conf spark.sql.shuffle.partitions=10 --conf spark.plugins=com.nvidia.spark.SQLPlugin --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR}
+
+Attributions:
+https://www.howtoforge.com/how-to-install-apache-spark-on-ubuntu-2004/
+https://nvidia.github.io/spark-rapids/docs/download.html
+https://nvidia.github.io/spark-rapids/docs/get-started/getting-started-on-prem.html#example-join-operation
+
+-- Notes --
+* You can use nvidia-smi to monitor your graphics card and see what's going on. Looks like simple_app.py had a slow start, then afterwards the program ran in MS. Maybe i'm using it wrong?
+* From https://nvidia.github.io/spark-rapids/docs/FAQ.html#are-there-initialization-costs, looks like there are initialization costs for queries that take but a few seconds.
+  * This most likely explains the slow start behavior that I was noticing prior; simple_app.py only took a few seconds in the first place. Running it once made it take longer, then after that there
+    weren't anymore initialization costs.
+* spark-rapids can't accelerate operations that manipulate RDDs directly (define what an RDD is - https://spark.apache.org/docs/latest/rdd-programming-guide.html#overview).
+  * It only works with SQL & DataFrame operations.
+* Spark SQL Python API: https://spark.apache.org/docs/latest/api/python/reference/index.html
+
+-- Experiments --
+* Two experiments:
+   * 1). Demonstrates the observed slowdown for something that takes seconds. Maybe take a large text and find the top three words that appear most frequently. (Inspired by one of Spark's example programs: reading the README and counting the number of words (or something like that)).
+     * Ended up with taking 15 books and finding the top five words that appear most frequently. See textFiles/ directory for which ones.
+     * Book text files obtained through Project Gutenberg: https://www.gutenberg.org/
+     * https://www.vulture.com/2016/11/long-books-worth-your-time.html - more ideas on long books to use
+     * Cleaned up the text files by removing license, chapter headers, table of contents.
+       * Only wanted the story, no extra cruft.
+     * Removing stop words: https://www.tutorialspoint.com/python_text_processing/python_remove_stopwords.htm
+       * https://pypi.org/project/nltk/
+       * https://gist.github.com/sebleier/554280
+       * A stop word is a commonly used word in any language, which we are filtering out to focus on important words.
+          * https://kavita-ganesan.com/what-are-stop-words/#.YFpsQ_4pDJU
+   * 2). Character frequency analysis - how frequently do characters appear.
+  * Each one will run a Spark program 10 times without spark-rapids enabled & 10 times with spark-rapids enabled. The average time will be computed across all of them times.
+  * We'll graph the times into a line graph, where x is trial # & y is time (seconds).
+* We could try to vary the number of threads/cores, to make things more interesting.
+* Github: https://github.com/cpd67/GVSUMasters/tree/master
+* The web UI is only available for as long as your Spark application is running. 
+  * You can recreate the history of it, however: https://stackoverflow.com/questions/41322755/how-to-access-spark-web-ui, http://spark.apache.org/docs/latest/monitoring.html#viewing-after-the-fact, https://spark.apache.org/docs/latest/configuration.html
+
+--- Noticed Bottlenecks ---
+* Video memory: only have 4GB, can't have other things running otherwise we get an out-of-memory error.
+  * Also not a speedy GPU: 1050ti. It'd be interesting to see what spark-rapids could do with a faster, more powerful GPU.
+
+Main takeaways:
+* It's *very* easy to enable spark-rapids in your spark programs. 
+  * Speedups can be obtained if you have a slow-running program performing a lot of SQL & DataFrame operations.
+  * Not useful for programs that do very little SQL queries, or are fast enough on their own (< 30 seconds).
+
+TODO:
+  * Do experiments:
+      * Run each program 10 times, once with spark-rapids enabled and once without it enabled.
+           * Take average time across all 10 runs.
+  * Graph Results & Write up conclusions.
+
+
+Powerpoint slides for lightning talk
+Abstract
+1). What is Spark?
+2). What is spark-rapids?
+3). What was our goal?
+4). How did we achieve that goal?
+  4a). Experiments
+5). Results
+  5a). Show charts, discuss
+  5b). Running experiments in isolation
+  5c). Show charts of that, discuss
+6). Conclusions
+
+The write-up will look similar, but include additional sections:
+Abstract
+1). What is Spark?
+2). What is spark-rapids?
+3). What was our goal?
+4). How did we achieve that goal?
+  4a). Hardware
+  4b). Installing spark & spark-rapids
+  4c). Experiments
+5). Results
+  5a). Show charts, discuss
+  5b). Running experiments in isolation
+  5c). Show charts of that, discuss
+6). Conclusions
+7). Further Work
+8). Appendix
+  8a). Experiment code
+  8b). Output of running main.py (main-isolation.py is similar, but shows only one of the experiments running)
+9). References
+
+* We're using nltk, and their website said to cite them as follows:
+Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+
+Before trial:
+1). Go into the directory where our experiment code lies.
+    cd /opt/spark/experiments/
+2). Export necessary vars to find jars, etc. necessary for spark-rapids:
+    export SPARK_RAPIDS_DIR=/opt/sparkRapidsPlugin
+    export SPARK_CUDF_JAR=${SPARK_RAPIDS_DIR}/cudf-0.17-cuda11.jar
+    export SPARK_RAPIDS_PLUGIN_JAR=${SPARK_RAPIDS_DIR}/rapids-4-spark_2.12-0.3.0.jar
+3). Activate conda environment (set up during spark-rapids installation):
+    conda activate rapids-0.17
+
+
+Trial procedure:
+1). Run the main.py file:
+    spark-submit --conf spark.plugins=com.nvidia.spark.SQLPlugin  --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR} main.py
+
+2). Record times.
+
+3). Repeat 1 & 2 10 times.
+
+* I suspected that there wouldn't be any speedups, because of what the FAQ said. I was suspicious of the results, and discovered that spark does some caching of some intermediate shuffling operations, 
+  which might be happening with some of our queries. To test this, I will run the experiments in isolation one at a time.
+
+
+* To view the history server, I made sure that this configuration was made for the server: spark-defaults.conf
+  * Then, I ran the start-history-server.sh script that spark provides. It opened up a web UI on http://10.0.0.166:18080/
+
+Isolation Trial procedure:
+1). Run the main-isolation.py file:
+    spark-submit --conf spark.plugins=com.nvidia.spark.SQLPlugin  --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR} main-isolation.py
+
+2). Record times.
+
+3). Repeat 1 & 2 10 times, uncommenting the next one to be run and commenting the finished one.
