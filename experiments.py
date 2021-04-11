@@ -37,12 +37,13 @@ def experiment_1(rapids_off=False):
     stop = list(set(stopwords.words('english')))
 
     query_times = []
-    total_start = time.time()
 
     # Read in generated text file, creating a DataFrame with a 'value' column, and group by 'value', obtaining a count for each word
     df = spark_experiment_1.read.text("./words.txt")
     not_stop_words = df.select('value').filter(~df.value.isin(stop)).groupBy('value').count()
     are_stop_words = df.select('value').filter(df.value.isin(stop)).groupBy('value').count()
+
+    total_start = time.time()
 
     print("Query #1: get 3 words that appear most frequently and are not stop words")
     query_start = time.time()
@@ -107,13 +108,13 @@ def experiment_1(rapids_off=False):
     total_end = time.time() - total_start
 
     # Cleanup
-    # spark_experiment_1.stop()
+    spark_experiment_1.stop()
 
     print("----------------------------")
     for i, query_t in enumerate(query_times, start=1):
         print(f"Query {i} time: {query_t}s")
 
-    print(f'\nTotal time to read in file & run all queries: {total_end}s\n')
+    print(f'\nTotal time to run all queries: {total_end}s\n')
     print("----------------------------")
 
 
@@ -133,10 +134,11 @@ def experiment_2(rapids_off=False):
     stop = list(set(stopwords.words('english')))
 
     query_times = []
-    total_start = time.time()
 
     # Read in generated text file, creating a DataFrame with a 'value' column
     df = spark_experiment_2.read.text("./words.txt")
+
+    total_start = time.time()
 
     print("Queries #1 & #2: words that do not start with 'a' & how many there are")
     query_start = time.time()
@@ -241,11 +243,11 @@ def experiment_2(rapids_off=False):
     total_end = time.time() - total_start
 
     # Cleanup
-    # spark_experiment_2.stop()
+    spark_experiment_2.stop()
 
     print("----------------------------")
     for i, query_t in enumerate(query_times, start=1):
         print(f"Query {i} time: {query_t}s")
 
-    print(f'\nTotal time to read in file & run all queries: {total_end}s\n')
+    print(f'\nTotal time to run all queries: {total_end}s\n')
     print("----------------------------")

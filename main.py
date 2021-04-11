@@ -7,7 +7,7 @@ from word import generate_word_file
 
 
 if __name__ == '__main__':
-    print("Generating word list....")
+    print("Generating word file....")
     generate_word_file()
     
     print("Without spark-rapids enabled")
