@@ -90,6 +90,9 @@ Abstract
   5c). Show charts of that, discuss
 6). Conclusions
 7). Further Work
+  * What can we see with a beefer GPU?
+  * Other modes of operation?
+  * We were only running the experiments in local mode, where everything runs on one machine with no real parallelism. <link to other modes of operation for Spark>
 8). Appendix
   8a). Experiment code
   8b). Output of running main.py (main-isolation.py is similar, but shows only one of the experiments running)
