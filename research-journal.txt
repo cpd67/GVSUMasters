@@ -92,7 +92,7 @@ Abstract
 7). Further Work
   * What can we see with a beefer GPU?
   * Other modes of operation?
-  * We were only running the experiments in local mode, where everything runs on one machine with no real parallelism. <link to other modes of operation for Spark>
+    * We were only running the experiments in local mode, where everything runs on one machine with no real parallelism. <link to other modes of operation for Spark>
 8). Appendix
   8a). Experiment code
   8b). Output of running main.py (main-isolation.py is similar, but shows only one of the experiments running)
@@ -115,14 +115,11 @@ Before trial:
 Trial procedure:
 1). Run the main.py file:
     spark-submit --conf spark.plugins=com.nvidia.spark.SQLPlugin  --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR} main.py
-
 2). Record times.
-
 3). Repeat 1 & 2 10 times.
 
 * I suspected that there wouldn't be any speedups, because of what the FAQ said. I was suspicious of the results, and discovered that spark does some caching of some intermediate shuffling operations, 
   which might be happening with some of our queries. To test this, I will run the experiments in isolation one at a time.
-
 
 * To view the history server, I made sure that this configuration was made for the server: spark-defaults.conf
   * Then, I ran the start-history-server.sh script that spark provides. It opened up a web UI on http://10.0.0.166:18080/
@@ -130,7 +127,5 @@ Trial procedure:
 Isolation Trial procedure:
 1). Run the main-isolation.py file:
     spark-submit --conf spark.plugins=com.nvidia.spark.SQLPlugin  --jars ${SPARK_CUDF_JAR},${SPARK_RAPIDS_PLUGIN_JAR} main-isolation.py
-
 2). Record times.
-
 3). Repeat 1 & 2 10 times, uncommenting the next one to be run and commenting the finished one.
