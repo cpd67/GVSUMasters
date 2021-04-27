@@ -12,5 +12,5 @@ if __name__ == '__main__':
     
     # experiment_1(rapids_off=True)
     # experiment_2(rapids_off=True)
-    # experiment_1()
-    experiment_2()
+    experiment_1()
+    # experiment_2()

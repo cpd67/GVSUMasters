@@ -22,6 +22,8 @@ from pyspark.sql import SparkSession
 def experiment_1(rapids_off=False):
     """ Perform queries to analyze certain characteristics of the books, such as how many times a certain word appears,
         what are 3 words that appear most frequently (that are not stop words), etc.
+
+        rapids_off: boolean kwarg to control when to disable spark-rapids at runtime.
     """
 
     print("Experiment #1: Fun with words")
@@ -119,7 +121,10 @@ def experiment_1(rapids_off=False):
 
 
 def experiment_2(rapids_off=False):
-    """ Perform character frequency analysis on our list of words. """
+    """ Perform character frequency analysis on our list of words. 
+
+        rapids_off: boolean kwarg to control when to disable spark-rapids at runtime.
+    """
 
     print("Experiment #2: Character Frequency Analysis")
 

@@ -13,7 +13,7 @@ def generate_word_file():
                 './textFiles/AdventuresInWonderland.txt', 
                 './textFiles/MobyDick.txt', 
                 './textFiles/SherlockHolmes.txt', 
-                './textFiles/Illiad.txt', 
+                './textFiles/Iliad.txt',
                 './textFiles/WarAndPeace.txt',
                 './textFiles/DonQuixote.txt',
                 './textFiles/BleakHouse.txt',
